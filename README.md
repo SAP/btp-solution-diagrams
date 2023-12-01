@@ -1,10 +1,10 @@
 [![REUSE status](https://api.reuse.software/badge/github.com/SAP/sap-btp-solution-diagram-service-icons-approval-wip-)](https://api.reuse.software/info/github.com/SAP/sap-btp-solution-diagram-service-icons-approval-wip-)
 
-# SAP BTP Solution Diagram Service icons (approval WIP)
+# SAP BTP Solution Diagram Service icons
 
 ## About this project
 
-SAP Business Technology Platform solution diagram repository, based on the official SAP BTP Solution diagram guideline. This has been designed in accordance with the SAP Fiori Horizon principles and color palette which provides a holistic and pleasing aesthetic and user experience.
+SAP Business Technology Platform solution diagram repository, based on the official SAP Business Technology Platform Solution diagram guideline. This has been designed in accordance with the SAP Fiori Horizon principles and color palette which provides a holistic and pleasing aesthetic and user experience.
 
 ## Requirements and Setup
 
