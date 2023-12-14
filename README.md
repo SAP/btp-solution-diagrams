@@ -1,6 +1,6 @@
 [![REUSE status](https://api.reuse.software/badge/github.com/SAP/sap-btp-solution-diagram-service-icons-approval-wip-)](https://api.reuse.software/info/github.com/SAP/sap-btp-solution-diagram-service-icons-approval-wip-)
 
-# SAP BTP Solution Diagram Service icons
+# SAP BTP Solution Diagram Guidelines
 
 ## About this project
 
