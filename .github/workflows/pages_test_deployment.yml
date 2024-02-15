@@ -1,6 +1,6 @@
 name: Test deployment
 
-on: workflow_dispatch
+on: workflow_dispatch:
     branches:
       - pre-version
     # Review gh actions docs if you want to further define triggers, paths, etc
