@@ -38,7 +38,7 @@ jobs:
       - name: install dependencies
         run: yarn install --pure-lockfile --non-interactive
       - name: Build
-        run: yarn build
+        run: yarn run build
       - name: Setup Pages
         uses: actions/configure-pages@v4
       - name: Upload artifact
