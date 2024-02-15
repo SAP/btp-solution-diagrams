@@ -1,0 +1,21 @@
+.features {
+  display: flex;
+  align-items: center;
+  padding: 1rem 0;
+  width: 100%;
+}
+
+.featureImg {
+  height: 200px;
+  width: 200px;
+}
+
+.center {
+  display: flex;
+  align-items: center;
+  position: right;
+  padding: 0rem 0;
+  width: 10%;
+}
+
+
