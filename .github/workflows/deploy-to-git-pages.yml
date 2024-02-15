@@ -39,7 +39,7 @@ jobs:
         run: yarn install --pure-lockfile --non-interactive
       - name: Build
         working-directory: ./guideline
-        run: yarn run build
+        run: yarn build
       - name: Setup Pages
         uses: actions/configure-pages@v4
       - name: Upload artifact
