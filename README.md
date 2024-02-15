@@ -1,5 +1,7 @@
 [![REUSE status](https://api.reuse.software/badge/github.com/SAP/sap-btp-solution-diagram-service-icons-approval-wip-)](https://api.reuse.software/info/github.com/SAP/sap-btp-solution-diagram-service-icons-approval-wip-)
 
+[![Deploy static content to Pages](https://github.com/SAP/btp-solution-diagrams/actions/workflows/deploy-to-git-pages.yml/badge.svg)](https://github.com/SAP/btp-solution-diagrams/actions/workflows/deploy-to-git-pages.yml)
+
 # SAP BTP Solution Diagram Guidelines
 
 ## About this project
