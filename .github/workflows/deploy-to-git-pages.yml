@@ -35,8 +35,6 @@ jobs:
         uses: actions/setup-node@v3 
         with:
           node-version: 20.x
-          cache: yarn
-          cache-dependency-path: '**/yarn.lock'
       - name: install dependencies
         run: yarn install --pure-lockfile --non-interactive
       - name: Build
