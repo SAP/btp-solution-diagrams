@@ -739,6 +739,21 @@ padding-top: 0px;
 padding-top: 0px;
 }
 
+.drawio_config{
+  width: 500px;
+  height: 300px;
+  margin-bottom: 55px;
+  padding-top: 0px; 
+
+}
+
+.drawio_config_res{
+  width: 200px;
+  height: 300px;
+  margin-bottom: 0px;
+  padding-top: 0px;
+}
+
 .area_cardinality .diagr_gran{
   width: 500px;
   height: 300px;

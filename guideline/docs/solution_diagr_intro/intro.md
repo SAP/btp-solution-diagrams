@@ -173,6 +173,22 @@ After a restart of draw.io you can now make use of the new fonts:
 ![draw.io custom fonts](../pics/drawio_font_select.png)
 </div>
 
+## Add SAP colors, BTP Icons, Logos etc. to draw.io configuration at once
+
+In addition to the single steps to adjust the colors or fonts, you can also add the other assets like BTP Icons & Logos etc.
+
+By using this the [linked](https://github.com/SAP/btp-solution-diagrams) "all-in-one" json you can copy and paste this in the configuration of draw.io desktop:
+
+<div className="drawio_config">
+![draw.io custom fonts](../pics/drawio_config_all_in_one.png)
+</div>
+
+Finally after a restart of draw.io you have all *SAP* libraries preloaded:
+
+<div className="drawio_config_res">
+![draw.io custom fonts](../pics/drawio_config_all_in_one_res.png)
+</div>
+
 
 ## Reusable diagram examples
 
