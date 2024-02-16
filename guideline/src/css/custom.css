@@ -769,6 +769,14 @@ padding-top: 0px;
 
 }
 
+comp_group{
+  width: 950px;
+  height: 600px;
+  margin-bottom: 100px;
+padding-top: 25px;
+
+}
+
 .iam{
   width: 800px;
   height: 500px;

@@ -1,9 +1,10 @@
 ---
-sidebar_label: 'Foundation'
+sidebar_label: 'Foundation (Atoms)'
 sidebar_position: 1
 tags:
-  - Basics
   - Color
+  - Spacing
+  - Atoms
 ---
 
 # Foundation (Atoms)
