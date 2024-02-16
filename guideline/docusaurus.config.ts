@@ -100,7 +100,7 @@ const config: Config = {
          
         },
         { 
-          label: 'BTP Service Icons',
+          label: 'GitHub Discussions',
           position: 'right',
           className: 'navbar__link--demo__faq',
           href: 'https://community.sap.com/',
