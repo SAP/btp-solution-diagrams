@@ -12,7 +12,7 @@ const config: Config = {
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   //baseUrl: '/sap/btp-diagram-guideline',
-  baseUrl: '/btp-diagram-guideline/',
+  baseUrl: '/',
   githubHost:'github.com',
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
