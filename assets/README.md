@@ -2,7 +2,7 @@
 
 ## Overview
 
-**SAP Business Technology Platform Solution Diagrams** are used in customer presentations, BTP product management related product presentation as well as for [missions](https://discovery-center.cloud.sap/missionCatalog/) and [reference architectures](https://discovery-center.cloud.sap/refArchCatalog/) in [SAP Discovery Center](https://discovery-center.cloud.sap/)
+**SAP Business Technology Platform Solution Diagrams** are used for SAP community [blogs](https://community.sap.com/t5/all-sap-community-blogs/ct-p/all-blogs), [missions](https://discovery-center.cloud.sap/missionCatalog/) and [reference architectures](https://discovery-center.cloud.sap/refArchCatalog/) in [SAP Discovery Center](https://discovery-center.cloud.sap/)
 
 ![guideline](/assets/pics/guideline.png)
 
