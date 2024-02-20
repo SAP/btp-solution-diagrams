@@ -21,4 +21,6 @@ In addition we will also provide all used BTP service icons and shapes as [draw.
 
 - [BTP Solution Diagram shapes as draw.io XML libraries](/assets/shape-libraries-and-editable-presets/draw.io/)
 
+- [BTP service icons as zip archive (svg's)](/assets/shape-libraries-and-editable-presets/svg/)
+
 - [BTP Solution Diagram shapes as PPT templates]()
