@@ -777,24 +777,23 @@ padding-top: 25px;
 
 }
 
-.stc_l2{
-  width: 750px;
-  height: 450px;
-  margin-bottom: 220px;
-  padding-top: 0px;
-}
-
 .stc_l0{
   width: 750px;
   height: 450px;
   margin-bottom: 220px;
-  padding-top: 0px;
+  padding-top: 10px;
 }
 
 .stc_l1{
   width: 750px;
   height: 450px;
   margin-bottom: 220px;
+  padding-top: 0px;
+}
+
+.stc_l2{
+  width: 750px;
+  height: 450px;
   padding-top: 0px;
 }
 

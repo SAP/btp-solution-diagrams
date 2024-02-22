@@ -4,6 +4,7 @@ sidebar_position: 4
 tags:
   - Basics
   - Color
+  - Examples
 ---
 
 # Examples
