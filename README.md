@@ -10,7 +10,7 @@
 
 ## Requirements and Setup
 
-You can find an detailed overview how to get started to make use of the BTP Solution Diagrams in our [guidline](/guideline/docs/solution_diagr_intro/intro.md).
+You can find an detailed overview how to get started to make use of the BTP Solution Diagrams in our [guideline](/guideline/docs/solution_diagr_intro/intro.md).
 
 ## Support, Feedback, Contributing
 
