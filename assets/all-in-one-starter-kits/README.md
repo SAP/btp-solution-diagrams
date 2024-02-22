@@ -5,4 +5,4 @@ In detail you will find here:
 
 - [Draw.io libraries](/assets/shape-libraries-and-editable-presets/draw.io/)
 - [Draw.io reusable examples](/assets/editable-diagram-examples/)]
-- [BTP Solution Diagram design guidline](/guideline/docs/solution_diagr_intro/big_picture/)
+- [BTP Solution Diagram design guidline](/guideline/docs/solution_diagr_intro/intro.md)
