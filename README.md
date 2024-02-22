@@ -10,7 +10,7 @@
 
 ## Requirements and Setup
 
-You can find the how-to 
+You can find the how to get started in the online [guidline](/guideline/docs/solution_diagr_intro/intro.md)
 
 ## Support, Feedback, Contributing
 
