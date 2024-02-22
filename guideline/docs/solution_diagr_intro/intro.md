@@ -26,7 +26,7 @@ BTP Solution Diagrams give you a quick and effective understanding of SAP Busine
 
 ## Installing the diagram editor - the right tool for the right job
 
-1.	Install the drawing software draw.io on your local machine. You can get your local draw.io copy at GitHub [repository](https://github.com/jgraph/drawio-desktop/releases)**.
+1.	Install the drawing software draw.io on your local machine. You can get your local draw.io copy at GitHub [repository](https://github.com/jgraph/drawio-desktop/releases).
 
 
 
