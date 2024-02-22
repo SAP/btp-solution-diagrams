@@ -16,13 +16,13 @@ BTP Solution Diagrams give you a quick and effective understanding of SAP Busine
 
 - Consult the SAP BTP Solution Diagram guideline. It is based on the new Horizon 2023 design principles and gives you the basic information you need to start using the templates to build your solution diagram.
 
--	Download the [draw.io libraries](http://localhost/). 
+-	Download the [draw.io libraries](https://github.com/SAP/btp-solution-diagrams/tree/main/assets/shape-libraries-and-editable-presets/draw.io). 
 
-- Consult the Visual Design Guideline topic available in the content list panel to the left of this page to understand the different diagram elements available in the repository. You can also get it here: [PDF](http://localhost/)
+- Consult the Visual Design Guideline topic available in the content list panel to the left of this page to understand the different diagram elements available in the repository. You can also get it here: [PDF](https://d.dam.sap.com/a/UbBJrVh/SAP-BTP-solution-diagram-design-guideline-v1-public.pdf?rc=10)
 
-- If you only use PowerPoint, then you can also use the provided shapes; check out the examples here: [PPT](http://localhost/)
+- If you only use PowerPoint, then you can also use the provided shapes; check out the examples here: [PPT](https://d.dam.sap.com/a/e7KMGSu?rc=10)
 
-**If you want to have a quick start we also provide a starter kit for **draw.io** and **ppt** [here](http://localhost/)**
+**If you want to have a quick start we also provide a starter kit for **draw.io** [here](https://github.com/SAP/btp-solution-diagrams/tree/main/assets/all-in-one-starter-kits)**
 
 ## Installing the diagram editor - the right tool for the right job
 
