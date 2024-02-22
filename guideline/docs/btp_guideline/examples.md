@@ -20,13 +20,6 @@ tags:
 ![areas](../pics/SAP_Task_Center_L1.png)
 </div>
 
-
-## SAP Cloud Identity Services Example - L2
-
-<div className="iam">
-![areas](../pics/IAM3_example.png)
-</div>
-
 ## SAP Cloud Identity Services Example - L3
 
 <div className="iam">
