@@ -1,4 +1,4 @@
-[![REUSE status](https://api.reuse.software/badge/github.com/SAP/sap-btp-solution-diagram-service-icons-approval-wip-)](https://api.reuse.software/info/github.com/SAP/sap-btp-solution-diagram-service-icons-approval-wip-)
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP/btp-solution-diagrams)](https://api.reuse.software/info/github.com/SAP/btp-solution-diagrams)
 
 [![Deploy static content to Pages](https://github.com/SAP/btp-solution-diagrams/actions/workflows/deploy-to-git-pages.yml/badge.svg)](https://github.com/SAP/btp-solution-diagrams/actions/workflows/deploy-to-git-pages.yml)
 
