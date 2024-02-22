@@ -21,7 +21,7 @@ If you find any bug that may be a security problem, please follow our instructio
 
 ## Code of Conduct
 
-We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone. By participating in this project, you agree to abide by its [Code of Conduct](https://github.com/SAP/.github/blob/main/CODE_OF_CONDUCT.md) at all times.
+We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone. By participating in this project, you agree to abide by its [Code of Conduct](https://github.com/SAP/btp-solution-diagrams/tree/pre-version?tab=readme-ov-file#coc-ov-file) at all times.
 
 ## Licensing
 
