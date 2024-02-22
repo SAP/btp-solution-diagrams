@@ -96,14 +96,14 @@ const config: Config = {
           position: 'right',
           label: 'GitHub Repository',
           className: 'navbar__link--demo__repo',
-          href: 'https://community.sap.com/',
+          href: 'https://github.com/SAP/btp-solution-diagrams/tree/main',
          
         },
         { 
           label: 'GitHub Discussions',
           position: 'right',
           className: 'navbar__link--demo__faq',
-          href: 'https://community.sap.com/',
+          href: 'https://github.com/SAP/btp-solution-diagrams/discussions',
         },
        
         
@@ -146,6 +146,10 @@ const config: Config = {
             {
               label: 'SAP Community',
               href: 'https://community.sap.com/',
+            },
+            {
+              label: 'GitHub',
+              href: 'https://github.com/SAP/btp-solution-diagrams/discussions',
             }
           ],
         },
