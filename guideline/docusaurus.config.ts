@@ -127,11 +127,7 @@ const config: Config = {
           items: [
             {
               label: 'Starter Kit for draw.io',
-              href: 'https://community.sap.com/',
-            },
-            {
-              label: 'Starter Kit for PPT',
-              href: 'https://community.sap.com/',
+              href: 'https://github.com/SAP/btp-solution-diagrams/tree/main/assets/all-in-one-starter-kits',
             },
             {
               label: 'Explore Diagram Guideline',
