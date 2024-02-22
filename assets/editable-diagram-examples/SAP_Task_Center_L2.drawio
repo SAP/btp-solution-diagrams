@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2024-02-20T14:55:10.422Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.2 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" version="22.0.2" etag="v_qNEDcRjV8xnmRhGvu4" type="device">
+<mxfile host="Electron" modified="2024-02-22T11:15:14.703Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.2 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="HKDXadYJWJt2IqWbNppF" version="22.0.2" type="device">
   <diagram id="FbstBVE6JiylST8Hq-xM" name="L2">
-    <mxGraphModel dx="2226" dy="1461" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2666" dy="1744" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -293,11 +293,14 @@
         <mxCell id="9_2BVRPRgIGZMdOAFPMG-39" value="&lt;font size=&quot;1&quot; color=&quot;#f5f6f7&quot;&gt;&lt;b style=&quot;&quot;&gt;SAML2/OIDC&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeColor=none;fillColor=#188918;" parent="1" vertex="1">
           <mxGeometry x="-400.5" y="-305" width="72" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="kNNgtaJXoUYcpjIcoE6y-1" value="&lt;span style=&quot;font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; font-size: 10px; display: inline !important;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;SAP S/4HANA&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=left;container=0;verticalAlign=middle;fontColor=#1D2D3E;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="kNNgtaJXoUYcpjIcoE6y-1" value="&lt;span style=&quot;font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; font-size: 10px; display: inline !important;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;SAP S/4HANA&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=left;container=0;verticalAlign=middle;fontColor=#1D2D3E;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="-18.000000000000085" y="-620.5" width="160" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="kNNgtaJXoUYcpjIcoE6y-2" value="&lt;span style=&quot;font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; font-size: 10px; display: inline !important;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;SAP S/4HANA PCE&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=left;container=0;verticalAlign=middle;fontColor=#1D2D3E;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="kNNgtaJXoUYcpjIcoE6y-2" value="&lt;span style=&quot;font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; font-size: 10px; display: inline !important;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;SAP S/4HANA PCE&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=left;container=0;verticalAlign=middle;fontColor=#1D2D3E;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="-18.000000000000085" y="-601.5" width="160" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="w7ZOYHk8fDIAb1u9wBsY-1" value="&lt;font color=&quot;#0070f2&quot; face=&quot;arial&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;SAP Task Center&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#1d2d3e;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="-971" y="-776" width="145" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

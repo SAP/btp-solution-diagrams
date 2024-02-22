@@ -10,7 +10,7 @@
 
 ## Requirements and Setup
 
-*Insert a short description what is required to get your project running...*
+You can find the how-to
 
 ## Support, Feedback, Contributing
 
