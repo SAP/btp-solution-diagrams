@@ -1,7 +1,7 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: btp-solution-diagrams
 Upstream-Contact: ospo@sap.com
-Source: https://github.com/SAP/sap-btp-solution-diagram-service-icons-approval-wip-
+Source: https://github.com/SAP/btp-solution-diagrams
 Disclaimer: The code in this project may include calls to APIs ("API Calls") of
  SAP or third-party products or services developed outside of this project
  ("External Products").
@@ -25,5 +25,5 @@ Disclaimer: The code in this project may include calls to APIs ("API Calls") of
  parties the right to use of access any SAP External Product, through API Calls.
 
 Files: *
-Copyright:  2023 SAP SE or an SAP affiliate company and sap-btp-solution-diagram-service-icons-approval-wip- contributors
+Copyright:  2024 SAP SE or an SAP affiliate company and sap-btp-solution-diagram-service-icons-approval-wip- contributors
 License: Apache-2.0
