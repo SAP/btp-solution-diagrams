@@ -1,5 +1,5 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name: sap-btp-solution-diagram-service-icons-approval-wip-
+Upstream-Name: btp-solution-diagrams
 Upstream-Contact: ospo@sap.com
 Source: https://github.com/SAP/sap-btp-solution-diagram-service-icons-approval-wip-
 Disclaimer: The code in this project may include calls to APIs ("API Calls") of
