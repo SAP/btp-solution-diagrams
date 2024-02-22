@@ -29,7 +29,7 @@ export default function HeroSection(): JSX.Element {
             </div> 
 
             <div className="header_button">
-          <Link className="button_hero" to="https://github.com/SAP/btp-solution-diagrams" target="_blank">Get Starter Kit
+          <Link className="button_hero" to="https://github.com/SAP/btp-solution-diagrams/tree/main/assets/all-in-one-starter-kits" target="_blank">Get Starter Kit
           </Link>
           </div>
           <div className='hero_image'>

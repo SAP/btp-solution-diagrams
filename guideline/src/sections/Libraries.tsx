@@ -26,7 +26,7 @@ export default function OverviewSection(): JSX.Element {
 
             
             <div className="lib_buttons">
-          <Link className="button_filled_libs" to="https://github.com/SAP/btp-solution-diagrams">draw.io template
+          <Link className="button_filled_libs" to="https://github.com/SAP/btp-solution-diagrams/tree/main/assets/shape-libraries-and-editable-presets/draw.io">draw.io template
           </Link>
           <Link className="button_clean_libs_ppt" to="https://d.dam.sap.com/a/e7KMGSu?rc=10">MS PPT template 
           </Link><br/>
