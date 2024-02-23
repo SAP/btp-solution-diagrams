@@ -1,0 +1,43 @@
+name: 🐞 Bug
+description: File a bug or an issue for the BTP Solution Diagrams
+title: "[BUG] <your title comes here>"
+labels: ["bug"]
+assignees: ["fabianleh", "Visua-Liza"]
+body:
+  - type: dropdown
+    id: area
+    attributes:
+      label: Main area of the  BTP Solution Diagrams that is affected?
+      options:
+        - Starter Kit
+        - Examples
+        - Diagram Guidelines
+        - Diagram Templates in general
+        - Draw.io Templates
+        - MS PPT Templates
+        - FAQ
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Steps to reproduce
+      description: How can we recreate this bug? Be specific.
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Observed behavior
+      description: What you're experiencing that you believe is a bug.
+      placeholder: |
+        If applicable, add screenshots to help explain your problem.
+
+        Tip: You can attach images or files by clicking this area to highlight it and then dragging files in.
+    validations:
+      required: false
+  - type: textarea
+    attributes:
+      label: Desired behavior
+      description: What you're expecting to happen.
+    validations:
+      required: true
