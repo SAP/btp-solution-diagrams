@@ -2,6 +2,8 @@
 
 [![Deploy static content to Pages](https://github.com/SAP/btp-solution-diagrams/actions/workflows/deploy-to-git-pages.yml/badge.svg)](https://github.com/SAP/btp-solution-diagrams/actions/workflows/deploy-to-git-pages.yml)
 
+[![Periodic Link Checker](https://github.com/SAP/btp-solution-diagrams/actions/workflows/periodic-link-watcher.yml/badge.svg)](https://github.com/SAP/btp-solution-diagrams/actions/workflows/periodic-link-watcher.yml)
+
 # SAP BTP Solution Diagram Guidelines
 
 ## About this project
