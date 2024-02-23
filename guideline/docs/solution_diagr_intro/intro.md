@@ -177,7 +177,9 @@ After a restart of draw.io you can now make use of the new fonts:
 
 In addition to the single steps to adjust the colors or fonts, you can also add the other assets like BTP Icons & Logos etc.
 
-By using this the [linked](https://github.com/SAP/btp-solution-diagrams/blob/main/guideline/docs/examples/drawio-config-all-in-one.json) "all-in-one" json you can copy and paste this in the configuration of draw.io desktop:
+By using this "all-in-one" json:
+https://github.com/SAP/btp-solution-diagrams/blob/main/guideline/docs/examples/drawio-config-all-in-one.json
+you can copy and paste this in the configuration of draw.io desktop:
 
 <div className="drawio_config">
 ![draw.io custom fonts](../pics/drawio_config_all_in_one.png)
