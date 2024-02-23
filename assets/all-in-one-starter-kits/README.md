@@ -4,5 +4,5 @@ Welcome to the single source of truth for BTP Architects. The repository include
 In detail you will find here:
 
 - [Draw.io libraries](/assets/shape-libraries-and-editable-presets/draw.io/)
-- [Draw.io reusable examples](/assets/editable-diagram-examples/)]
+- [Draw.io reusable examples](/assets/editable-diagram-examples/)
 - [BTP Solution Diagram design guidline](https://sap.github.io/btp-solution-diagrams/docs/solution_diagr_intro/big_picture/)
