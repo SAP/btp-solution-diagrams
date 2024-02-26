@@ -1,0 +1,32 @@
+name: BTP Solutions Diagram Release
+
+on: 
+  push:
+    tags:
+    - 'btpsd-v*'
+
+jobs:
+
+  release:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+    - name: Checkout source code
+      uses: actions/checkout@v4
+    
+    - name: Zip artifacts
+      run: |
+        mkdir ziptemp
+        zip -jr ziptemp/btp-solution-diagrams-drawio-examples.zip assets/editable-diagram-examples/*.drawio
+        zip -jr ziptemp/btp-solution-diagrams-drawio-libraries.zip assets/shape-libraries-and-editable-presets/draw.io/*.xml
+        zip -jr ziptemp/btp-solution-diagrams-svg-libraries.zip assets/shape-libraries-and-editable-presets/svg/*.svg
+    
+    # No way to disable auto-generated source code zip links see: https://github.com/orgs/community/discussions/6003    
+    - uses: ncipollo/release-action@v1
+      with:
+        artifacts: "ziptemp/btp-solution-diagrams-drawio-examples.zip, ziptemp/btp-solution-diagrams-drawio-libraries.zip, ziptemp/btp-solution-diagrams-svg-libraries.zip"
+        artifactContentType: application/zip
+        generateReleaseNotes: true
+        replacesArtifacts: true
+        makeLatest: true
