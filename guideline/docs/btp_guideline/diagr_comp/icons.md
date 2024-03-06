@@ -17,7 +17,7 @@ This Icon Set has been recently redesigned and is used for all Services presente
 :::tip Important
 **For diagram visualization it is mandatory to use the version with grey background circle.**
 
-*You will find the associated draw.io library in the  [GitHub repo](hhttps://github.com/SAP/btp-solution-diagrams)*
+*You will find the associated draw.io library in the  [GitHub repo](https://github.com/SAP/btp-solution-diagrams/tree/main/assets/shape-libraries-and-editable-presets/draw.io)*
 
 :::
 ![areas](../../pics/new_service_icons.png)
