@@ -10,6 +10,8 @@ tags:
 
 # Areas
 
+*You will find the associated draw.io library in the  [GitHub repo](https://github.com/SAP/btp-solution-diagrams/tree/main/assets/shape-libraries-and-editable-presets/draw.io)*
+
 ## Area Types
 
 Blue is the standard, grey for non-sap elements and the Accent colors are for highlighting certain areas.

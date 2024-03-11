@@ -8,10 +8,10 @@ tags:
 
 # Numbers
 
+*You will find the associated draw.io library in the  [GitHub repo](https://github.com/SAP/btp-solution-diagrams/tree/main/assets/shape-libraries-and-editable-presets/draw.io)*
+
 Numbers can be used to describe specific paths in diagrams.
 
 <div className="numbers">
 ![areas](../../pics/numbers.png)
 </div>
-
-*You will find the associated draw.io library in the  [GitHub repo](https://github.com/SAP/btp-solution-diagrams)*

@@ -11,6 +11,8 @@ tags:
 
 # Connectors
 
+*You will find the associated draw.io library in the  [GitHub repo](https://github.com/SAP/btp-solution-diagrams/tree/main/assets/shape-libraries-and-editable-presets/draw.io)*
+
 Connectors are non-, one- or bidirectional arrows.
 For line style meaning please check the Foundation.
 

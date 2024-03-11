@@ -35,7 +35,7 @@ export default function GuideSection(): JSX.Element {
             <div className="guideline_buttons">
             <Link
             className="button_filled_guideline"
-            to="/docs/solution_diagr_intro/intro/">Open Guideline
+            to="/docs/solution_diagr_intro/big_picture/">Open Guideline
           </Link>
             <a href="https://d.dam.sap.com/a/UbBJrVh/SAP-BTP-solution-diagram-design-guideline-v1-public.pdf?rc=10" target="_blank" className="button_clean_guideline" download>Download PDF</a>
             </div>

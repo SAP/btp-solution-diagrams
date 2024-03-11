@@ -32,4 +32,4 @@ This set of icons with soft gradients is used for all elements that are either g
 
 ![areas](../../pics/res_icons.png)
 
-*You will find the associated draw.io library in the  [GitHub repo](https://github.com/SAP/btp-solution-diagrams)*
+*You will find the associated draw.io library in the  [GitHub repo](https://github.com/SAP/btp-solution-diagrams/tree/main/assets/shape-libraries-and-editable-presets/draw.io)*
