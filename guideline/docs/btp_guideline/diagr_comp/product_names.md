@@ -10,6 +10,8 @@ tags:
 
 # Product Names
 
+*You will find the associated draw.io library in the  [GitHub repo](https://github.com/SAP/btp-solution-diagrams/tree/main/assets/shape-libraries-and-editable-presets/draw.io)*
+
 ## SAP Branded Elements
 
 SAP product names must be paired with the SAP logo.
@@ -17,5 +19,4 @@ It is not recommended to use too many SAP logos in the same diagram. Use text on
 
 ![sap brands](../../pics/sap_brands.png)
 
-*You will find the associated draw.io library in the  [GitHub repo](https://github.com/SAP/btp-solution-diagrams)*
 
