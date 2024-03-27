@@ -161,12 +161,13 @@ You can also customize the usage of custom fonts which are installed on your dev
 To add the sytem fonts **Arial** and **ArialBlack** to your local draw.io installation you can add the following to the *configuration*:
 
 ```
+{
 "customFonts": [
     "Arial",
     "Arial Black"
   ]
+  }
 ```
-
 After a restart of draw.io you can now make use of the new fonts:
 
 <div className="drawio_font_select">
