@@ -7,4 +7,4 @@ In detail you will find here:
 - [Draw.io reusable examples](/assets/editable-diagram-examples/)
 - [BTP Solution Diagram design guidline](https://sap.github.io/btp-solution-diagrams/docs/solution_diagr_intro/big_picture/)
 
-> **Tip:** Not all tools can display draw.io files, but there's no need to keep two versions of a solution diagram—one as a draw.io file and another as a PNG file. Just export the diagram as a PNG (or SVG) image, including a copy, to enable continued editing via draw.io. For additional details, check the FAQ section of draw.io: [Export a diagram to a PNG image](https://www.drawio.com/doc/faq/export-to-png).
+> **Tip:** You can export the diagram as a PNG (or SVG) image, including a copy, to enable continued editing via draw.io. For additional details, check the FAQ section of draw.io: [Export a diagram to a PNG image](https://www.drawio.com/doc/faq/export-to-png).
