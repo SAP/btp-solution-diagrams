@@ -39,4 +39,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 ### fix icons
 ### multiple changes in guideline
 
+## [1.0.7] - 2024-03-27
+### minor fixes
+### changes in guideline
+
+## [1.0.8] - 2024-04-02
+### adding SAP Build Icon
+
 
