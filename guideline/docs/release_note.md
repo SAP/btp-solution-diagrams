@@ -43,7 +43,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 ### minor fixes
 ### changes in guideline
 
-## [1.0.7] - 2024-04-02
+## [1.0.8] - 2024-04-02
 ### adding SAP Build Icon
 
 
