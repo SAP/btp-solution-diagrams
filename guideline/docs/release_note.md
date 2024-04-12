@@ -49,4 +49,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 ## [1.0.9] - 2024-04-02
 ### adding SAP Build Code SVG
 
+## [1.0.9] - 2024-04-12
+### adding SAP Integration Suite Icons and SVGs
+### New clustering of BTP service icons
+
 
