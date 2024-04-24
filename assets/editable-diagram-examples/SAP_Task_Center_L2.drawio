@@ -1,11 +1,11 @@
-<mxfile host="Electron" modified="2024-04-24T06:14:06.600Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.2 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" version="22.0.2" etag="M7tZxFMe1U2oioRxRogb" type="device">
+<mxfile host="Electron" modified="2024-04-24T06:20:26.500Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.2 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" version="22.0.2" etag="hXoT_1JM2eh8lCinBqJO" type="device">
   <diagram id="FbstBVE6JiylST8Hq-xM" name="L2">
-    <mxGraphModel dx="3892" dy="2507" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3705" dy="2507" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="3gaZ6STzcAwrb1w61FeG-6" value="&lt;font color=&quot;#0070f2&quot; face=&quot;arial&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;SAP Task Center&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#1d2d3e;fontFamily=Helvetica;" parent="1" vertex="1">
-          <mxGeometry x="-2319" y="-1631.9999999999998" width="145" height="31" as="geometry" />
+        <mxCell id="3gaZ6STzcAwrb1w61FeG-6" value="&lt;font color=&quot;#0070f2&quot; face=&quot;arial&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;SAP Task Center - SAP BTP Solution Diagram&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#1d2d3e;fontFamily=Helvetica;" parent="1" vertex="1">
+          <mxGeometry x="-2319" y="-1631.9999999999998" width="365" height="31" as="geometry" />
         </mxCell>
         <mxCell id="UHaCpyEYQsDfGPqh9ESF-22" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#eaecee;strokeWidth=1.5;arcSize=16;fillColor=#FFFFFF;perimeterSpacing=0;imageHeight=24;absoluteArcSize=1;points=[];connectable=0;container=0;" parent="1" vertex="1">
           <mxGeometry x="-1510" y="-960.75" width="323" height="114" as="geometry" />
