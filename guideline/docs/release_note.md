@@ -49,8 +49,22 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 ## [1.0.9] - 2024-04-02
 ### adding SAP Build Code SVG
 
-## [1.0.9] - 2024-04-12
-### adding SAP Integration Suite Icons and SVGs
-### New clustering of BTP service icons
+## [1.0.10] - 2024-04-12
+### minor fixes
+
+## [1.0.11] - 2024-04-12
+### adding BTP Int Suite Icons & new BTP service icons clustering
+### adding SAP Build Work Zone Solution diagram
+
+## [1.0.12] - 2024-04-24
+### adding SAP Build Work Zone L2 diagram
+### updated SAP Task Center L2 diagram
+
+## [1.0.13] - 2024-04-29
+### adding new generic icons size m
+
+## [1.0.14] - 2024-04-30
+### adding new generic icons size s
+### updated SAP Task Center L2 diagram
 
 
