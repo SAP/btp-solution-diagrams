@@ -787,13 +787,21 @@ padding-top: 25px;
 .stc_l1{
   width: 750px;
   height: 450px;
-  margin-bottom: 10px;
+  margin-bottom: 80px;
   padding-top: 0px;
 }
 
 .stc_l2{
   width: 750px;
   height: 450px;
+  margin-bottom: 80px;
+  padding-top: 0px;
+}
+
+.cis_l2{
+  width: 750px;
+  height: 450px;
+  margin-bottom: 80px !important;
   padding-top: 0px;
 }
 
@@ -814,5 +822,10 @@ font-size: 20px;
   
   margin-top: 00px;
 padding-top: 0px;
+}
+
+.docusaurus-mt-lg{
+
+  margin-top: 10rem !important;
 }
 
