@@ -67,4 +67,12 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 ### adding new generic icons size s
 ### updated SAP Task Center L2 diagram
 
+## [1.0.15] - 2024-05-13
+### adding new generic icons 
+
+## [1.0.16] - 2024-05-13
+### new draw.io lib clustering
+
+
+
 
