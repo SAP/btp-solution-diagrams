@@ -6,6 +6,7 @@
 
 [SAP Business Technology Platform](https://pages.community.sap.com/topics/business-technology-platform) solution diagram repository, based on the official SAP Business Technology Platform Solution diagram guideline. This has been designed in accordance with the SAP Fiori Horizon principles and color palette which provides a holistic and pleasing aesthetic end user experience.
 
+
 Find a nicely rendered version here: https://sap.github.io/btp-solution-diagrams/
 
 ## Requirements and Setup
