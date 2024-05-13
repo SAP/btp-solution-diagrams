@@ -10,8 +10,8 @@ We will provide here based on the audience knowledge level L0-L2 diagram for the
 - [SAP_Build_Work_Zone_L2](SAP_Build_Work_Zone_L2.drawio)
 
 - [SAP_Cloud_Identity_Services_Authentication_L2](SAP_Cloud_Identity_Services_Authentication_L2.drawio)
-- [SAP_Cloud_Identity_Services_Authorization_L2](SAP_Cloud_Identity_Services_Authorization_L2.drawio)
-- [SAP_Cloud_Identity_Services_Identity_Lifecycle_L2](SAP_Cloud_Identity_Services_Identity_Lifecycle_L2.drawio)
+- [SAP_Cloud_Identity_Services_Authorization_L2](SAP_Cloud_Identity_Services_Authorization_L1.drawio)
+- [SAP_Cloud_Identity_Services_Identity_Lifecycle_L2](SAP_Cloud_Identity_Services_Identity_Lifecycle_L1.drawio)
 
 - 
 
