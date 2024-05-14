@@ -73,6 +73,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 ## [1.0.16] - 2024-05-13
 ### new draw.io lib clustering
 
+## [1.0.17] - 2024-05-14
+### new draw.io all service lib, size s-l
+
 
 
 
