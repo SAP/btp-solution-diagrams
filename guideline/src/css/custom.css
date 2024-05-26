@@ -203,7 +203,10 @@ margin: 6rem 0;
 }
 
 .button_filled_overview {
-  display: inline-block;
+  /*display: inline-block;*/
+  display: flex;
+  flex-direction: row;
+  
   padding: 4px 25px;
   padding-bottom: 30px;
   padding-top: 6px;
@@ -215,7 +218,7 @@ margin: 6rem 0;
   color: #FFFFFF;
   text-decoration: none;
   justify-content: center;
-  align-items: center;
+  /*align-items: center;*/
   /*margin-right: 10px;*/
   font-size: 16px;
   font-weight: 600;
