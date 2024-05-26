@@ -29,7 +29,7 @@ export default function OverviewSection(): JSX.Element {
             total solution configuration and its operational flow. 
             </p>
           <div className="overview_buttons">
-          <Link className="button_filled_overview" to="/docs/btp_guideline/examples/">See Examples
+          <Link className="button_filled_overview" to="/docs/btp_guideline/examples/">Examples
           </Link>
             </div>
                     </div> 

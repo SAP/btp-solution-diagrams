@@ -357,7 +357,8 @@ margin: 6rem 0;
 
 .button_clean_guideline {
   display: inline-block;
-  padding: 4px 24px;
+  /*padding: 4px 24px;*/
+  padding: 4px 50px;
   padding-bottom: 30px;
   padding-top: 6px;
   width: 164px;
@@ -416,7 +417,7 @@ margin: 6rem 0;
 
 .button_clean_libs_ppt {
   display: inline-block;
-  padding: 4px 18px;
+  padding: 4px 50px;
   padding-bottom: 30px;
   padding-top: 6px;
   width: 170px;
