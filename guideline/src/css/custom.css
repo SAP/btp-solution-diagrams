@@ -328,7 +328,7 @@ margin: 6rem 0;
 
 .button_filled_guideline {
   display: inline-block;
-  padding: 4px 21px;
+  padding: 4px 18px;
   padding-bottom: 30px;
   padding-top: 6px;
   width: 166px;
@@ -357,7 +357,7 @@ margin: 6rem 0;
 
 .button_clean_guideline {
   display: inline-block;
-  padding: 4px 50px;
+  padding: 4px 18px;
   padding-bottom: 30px;
   padding-top: 6px;
   width: 164px;
