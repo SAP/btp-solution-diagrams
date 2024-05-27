@@ -171,6 +171,14 @@ margin: 6rem 0;
 
 }
 
+/** In mobile view, reduce the padding */
+@media screen and (max-width: 996px) {
+  .hero_banner {
+    padding: 2rem;
+    background-color: #FFFFFF;
+  }
+}
+
 .hero_image{
   margin: -15rem 44rem;
   width: 500px;
@@ -620,6 +628,13 @@ margin: 6rem 0;
   margin-right: 0px;
   color: #000000;
 
+}
+
+@media screen and (max-width: 996px) {
+  .footer {
+    
+    background-color: #FFFFFF;
+  }
 }
 
 
