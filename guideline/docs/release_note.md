@@ -88,10 +88,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 ### update mobile footer header 
 ### update SD for BWZ
 
-## [1.0.21] - 2024-05-27
+## [1.0.21] - 2024-05-31
 ### fix typo and missing links
 
-## [1.0.22] - 2024-05-27
+## [1.0.22] - 2024-05-31
 ### fix typo and missing links
 
 
