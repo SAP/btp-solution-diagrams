@@ -1,0 +1,58 @@
+<mxlibrary>[
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"&amp;lt;font color=&amp;quot;#0a74f3&amp;quot; size=&amp;quot;1&amp;quot;&amp;gt;&amp;lt;b style=&amp;quot;&amp;quot;&amp;gt;Interface&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;\" style=\"rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeColor=#0070f3;fillColor=default;strokeWidth=1.5;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"57\" height=\"16\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 57,
+    "h": 16,
+    "aspect": "fixed",
+    "title": "Interface SAP"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"&amp;lt;font color=&amp;quot;#475f75&amp;quot; size=&amp;quot;1&amp;quot;&amp;gt;&amp;lt;b style=&amp;quot;&amp;quot;&amp;gt;Interface&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;\" style=\"rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeColor=#475f75;fillColor=default;strokeWidth=1.5;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"57\" height=\"16\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 57,
+    "h": 16,
+    "aspect": "fixed",
+    "title": "Generic Interface"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"&amp;lt;p style=&amp;quot;line-height: 114%;&amp;quot;&amp;gt;&amp;lt;font color=&amp;quot;#188918&amp;quot; size=&amp;quot;1&amp;quot;&amp;gt;&amp;lt;b style=&amp;quot;&amp;quot;&amp;gt;TEXT&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;/p&amp;gt;\" style=\"rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeColor=#188918;fillColor=#f5fae5;fontColor=#266f3a;strokeWidth=1.5;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry x=\"40\" width=\"41.99\" height=\"16\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" value=\"\" style=\"endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#178b1b;strokeWidth=1.5;\" edge=\"1\" target=\"2\" parent=\"1\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint y=\"8\" as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"60\" y=\"-2\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;mxCell id=\"4\" value=\"\" style=\"endArrow=blockThin;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#178b1b;strokeWidth=1.5;exitX=1.015;exitY=0.505;exitDx=0;exitDy=0;exitPerimeter=0;endFill=1;endSize=4;startSize=4;\" edge=\"1\" source=\"2\" parent=\"1\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint x=\"85\" y=\"7.949999999999989\" as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"125\" y=\"7.949999999999989\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 125,
+    "h": 15.999999999999975,
+    "aspect": "fixed",
+    "title": "Authenticate"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"&amp;lt;p style=&amp;quot;line-height: 114%;&amp;quot;&amp;gt;&amp;lt;font color=&amp;quot;#5d36ff&amp;quot; size=&amp;quot;1&amp;quot;&amp;gt;&amp;lt;b style=&amp;quot;&amp;quot;&amp;gt;TEXT&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;/p&amp;gt;\" style=\"rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeColor=#470bed;fillColor=#f1edff;fontColor=#266f3a;strokeWidth=1.5;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry x=\"40\" width=\"41.99\" height=\"16\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" value=\"\" style=\"endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#470bed;strokeWidth=1.5;\" edge=\"1\" target=\"2\" parent=\"1\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint y=\"8\" as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"60\" y=\"-2\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;mxCell id=\"4\" value=\"\" style=\"endArrow=blockThin;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#470bed;strokeWidth=1.5;exitX=1.015;exitY=0.505;exitDx=0;exitDy=0;exitPerimeter=0;endFill=1;endSize=4;startSize=4;\" edge=\"1\" source=\"2\" parent=\"1\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint x=\"85\" y=\"7.949999999999989\" as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"125\" y=\"7.949999999999989\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 125,
+    "h": 15.999999999999975,
+    "aspect": "fixed",
+    "title": "Authorize"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"&amp;lt;p style=&amp;quot;line-height: 114%;&amp;quot;&amp;gt;&amp;lt;font color=&amp;quot;#475f75&amp;quot; size=&amp;quot;1&amp;quot;&amp;gt;&amp;lt;b style=&amp;quot;&amp;quot;&amp;gt;TEXT&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;/p&amp;gt;\" style=\"rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeColor=#475f75;fillColor=#f5f6f7;fontColor=#266f3a;strokeWidth=1.5;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry x=\"40\" width=\"41.99\" height=\"16\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" value=\"\" style=\"endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#475f75;strokeWidth=1.5;\" edge=\"1\" target=\"2\" parent=\"1\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint y=\"8\" as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"60\" y=\"-2\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;mxCell id=\"4\" value=\"\" style=\"endArrow=blockThin;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#475f75;strokeWidth=1.5;exitX=1.015;exitY=0.505;exitDx=0;exitDy=0;exitPerimeter=0;endFill=1;endSize=4;startSize=4;\" edge=\"1\" source=\"2\" parent=\"1\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint x=\"85\" y=\"7.9500000000000455\" as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"125\" y=\"7.9500000000000455\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 125,
+    "h": 15.999999999999975,
+    "aspect": "fixed",
+    "title": "Generic Protocol"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"&amp;lt;p style=&amp;quot;line-height: 114%;&amp;quot;&amp;gt;&amp;lt;font color=&amp;quot;#cc00dc&amp;quot; size=&amp;quot;1&amp;quot;&amp;gt;&amp;lt;b style=&amp;quot;&amp;quot;&amp;gt;TEXT&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;/p&amp;gt;\" style=\"rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeColor=#CC00DC;fillColor=#fff0fa;fontColor=#266f3a;strokeWidth=1.5;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry x=\"40\" width=\"41.99\" height=\"16\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" value=\"\" style=\"endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#cc00dc;strokeWidth=1.5;\" edge=\"1\" target=\"2\" parent=\"1\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint y=\"8\" as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"60\" y=\"-2\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;mxCell id=\"4\" value=\"\" style=\"endArrow=blockThin;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#cc00dc;strokeWidth=1.5;exitX=1.015;exitY=0.505;exitDx=0;exitDy=0;exitPerimeter=0;endFill=1;endSize=4;startSize=4;\" edge=\"1\" source=\"2\" parent=\"1\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint x=\"85\" y=\"7.949999999999989\" as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"125\" y=\"7.949999999999989\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 125,
+    "h": 15.99999999999982,
+    "aspect": "fixed",
+    "title": "Trust"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"&amp;lt;p style=&amp;quot;line-height: 114%;&amp;quot;&amp;gt;&amp;lt;font color=&amp;quot;#0070f2&amp;quot; size=&amp;quot;1&amp;quot;&amp;gt;&amp;lt;b style=&amp;quot;&amp;quot;&amp;gt;TEXT&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;/p&amp;gt;\" style=\"rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeColor=#0070F2;fillColor=#EBF8FF;fontColor=#266f3a;strokeWidth=1.5;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry x=\"40\" width=\"41.99\" height=\"16\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" value=\"\" style=\"endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#0070F2;strokeWidth=1.5;\" edge=\"1\" target=\"2\" parent=\"1\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint y=\"8\" as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"60\" y=\"-2\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;mxCell id=\"4\" value=\"\" style=\"endArrow=blockThin;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#0070F2;strokeWidth=1.5;exitX=1.015;exitY=0.505;exitDx=0;exitDy=0;exitPerimeter=0;endFill=1;endSize=4;startSize=4;\" edge=\"1\" source=\"2\" parent=\"1\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint x=\"85\" y=\"7.9500000000000455\" as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"125\" y=\"7.9500000000000455\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 125,
+    "h": 16.000000000000153,
+    "aspect": "fixed",
+    "title": "Protocol"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"&amp;lt;p style=&amp;quot;line-height: 114%;&amp;quot;&amp;gt;&amp;lt;font color=&amp;quot;#07838f&amp;quot; size=&amp;quot;1&amp;quot;&amp;gt;&amp;lt;b style=&amp;quot;&amp;quot;&amp;gt;TEXT&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;/p&amp;gt;\" style=\"rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeColor=#07838f;fillColor=#dafdf5;fontColor=#266f3a;strokeWidth=1.5;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry x=\"40\" width=\"41.99\" height=\"16\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" value=\"\" style=\"endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#07838f;strokeWidth=1.5;\" edge=\"1\" target=\"2\" parent=\"1\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint y=\"8\" as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"60\" y=\"-2\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;mxCell id=\"4\" value=\"\" style=\"endArrow=blockThin;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#07838f;strokeWidth=1.5;exitX=1.015;exitY=0.505;exitDx=0;exitDy=0;exitPerimeter=0;endFill=1;endSize=4;startSize=4;\" edge=\"1\" source=\"2\" parent=\"1\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint x=\"85\" y=\"7.9500000000000455\" as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"125\" y=\"7.9500000000000455\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 125,
+    "h": 16.000000000000153,
+    "aspect": "fixed",
+    "title": "Protocol"
+  }
+]</mxlibrary>
