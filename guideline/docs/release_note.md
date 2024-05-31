@@ -76,6 +76,18 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 ## [1.0.17] - 2024-05-14
 ### new draw.io all service lib, size s-l
 
+## [1.0.18] - 2024-05-25
+### minor fixes
+
+## [1.0.19] - 2024-05-26
+### fix wrong cis icon and new cid icon 
+
+## [1.0.20] - 2024-05-27
+### css update
+### fix buttons
+### update mobile footer header 
+### update SD for BWZ
+
 
 
 
