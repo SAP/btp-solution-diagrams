@@ -40,7 +40,7 @@ The focus for BTP Solution Diagrams is on creating visually compelling and insig
     </tr>
     <tr>
       <td ><div className="tam"> <ul>
-          <li>Technical an detailed description of architectures, use cases and processes</li>
+          <li>Technical and detailed description of architectures, use cases and processes</li>
           <li>Reduced and standardized icon and shape set.</li>
           <li>Can be used at any design level</li>
         </ul></div></td>
@@ -99,7 +99,7 @@ A representative example would be a high-level solution diagram featuring BTP Se
 
 For the creation of BTP Solution diagrams using PowerPoint, it is advisable to initially download the PowerPoint starter kit. This kit comes with a PowerPoint template that includes the fundamental atoms and molecules of the design system. It also has a selection of comprehensive and editable example diagrams. 
 
-The starter kit can be obtained here.
+The starter kit can be obtained [here](https://github.com/SAP/btp-solution-diagrams/blob/main/assets/all-in-one-starter-kits/README.md).
 
 **Please note that PowerPoint has certain inherent design constraints:**
 
@@ -115,7 +115,7 @@ The starter kit can be obtained here.
 
 To design BTP Solution diagrams in draw.io, we recommend you begin by downloading the draw.io starter kit. This comprehensive kit comes with an abundant library complete with the fundamental atoms and molecules of the system design. Additionally, it includes a variety of detailed, customizable example diagrams.
 
-You can access the starter kit here.
+You can access the starter kit [here](https://github.com/SAP/btp-solution-diagrams/blob/main/assets/all-in-one-starter-kits/README.md).
 
 **Please note that draw.io has certain inherent design limitations:**
 
