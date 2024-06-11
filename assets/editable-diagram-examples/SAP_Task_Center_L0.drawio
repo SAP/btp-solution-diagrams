@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2024-06-11T19:03:33.573Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.4.8 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" version="24.4.8" etag="LzqR6riSN-7WJTw820mW" type="device">
+<mxfile host="Electron" modified="2024-06-11T19:16:51.112Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.4.8 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" version="24.4.8" etag="wZH1YvdhwwXZFQnKMT6x" type="device">
   <diagram id="yyJCg45JmMv-zP9A26xm" name="L0">
-    <mxGraphModel dx="2483" dy="1694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1920" dy="1322" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -163,6 +163,17 @@
         </mxCell>
         <mxCell id="FSCWwQiYZv9m-uf2QePk-4" value="&lt;font face=&quot;arial&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;3rd Party&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;arial&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Applications&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#1d2d3e;fontFamily=Helvetica;" vertex="1" parent="FSCWwQiYZv9m-uf2QePk-1">
           <mxGeometry x="67.53768844221105" y="10" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FSCWwQiYZv9m-uf2QePk-5" value="" style="endArrow=blockThin;html=1;strokeColor=#475e74;bendable=1;rounded=0;endFill=1;endSize=4;strokeWidth=1.5;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;startSize=4;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-580" y="-527.25" as="sourcePoint" />
+            <mxPoint x="-480" y="-440" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-514" y="-527.25" />
+              <mxPoint x="-514" y="-485.25" />
+              <mxPoint x="-514" y="-440" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
