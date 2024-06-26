@@ -94,6 +94,17 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 ## [1.0.22] - 2024-05-31
 ### fix typo and missing links
 
+## [1.0.23] - 2024-06-04
+### adj. BTP Solution Diagrams update
+
+## [1.0.24] - 2024-06-04
+### adj. BTP Solution Diagrams update
+
+## [1.0.25] - 2024-06-26
+### Adding new BTP service icons
+
+
+
 
 
 
