@@ -421,6 +421,34 @@ margin: 6rem 0;
   
 }
 
+.button_filled_libs_lucid{
+  display: inline-block;
+  padding: 4px 18px;
+  padding-bottom: 30px;
+  padding-top: 6px;
+  width: 160px;
+  height: 35px;
+  background-color: #0057d2;
+  border: 1px solid #0057d2;
+  border-radius: 8px;
+  color: #FFFFFF;
+  text-decoration: none;
+  justify-content: center;
+  align-items: center;
+  margin-right: 10px;
+  font-size: 16px;
+  font-weight: 600;
+  font-family: '72Bold';
+  
+}
+
+.button_filled_libs_lucid:hover{
+  color: #FFFFFF;
+  text-decoration: none;
+  background-color: #002a86;
+  border: 1px solid #002a86;
+  
+}
 
 .button_clean_libs_ppt {
   display: inline-block;
