@@ -393,6 +393,7 @@ margin: 6rem 0;
 }
 
 .button_filled_libs {
+  text-align: center;
   display: inline-block;
   padding: 4px 18px;
   padding-bottom: 30px;
@@ -422,16 +423,17 @@ margin: 6rem 0;
 }
 
 .button_filled_libs_lucid{
+  text-align: center;
   display: inline-block;
   padding: 4px 18px;
   padding-bottom: 30px;
   padding-top: 6px;
   width: 160px;
   height: 35px;
-  background-color: #0057d2;
-  border: 1px solid #0057d2;
+  background-color: #FFFFFF;
+  border: 1px solid #BCC3CA;
   border-radius: 8px;
-  color: #FFFFFF;
+  color: #0064D9;
   text-decoration: none;
   justify-content: center;
   align-items: center;
@@ -451,6 +453,7 @@ margin: 6rem 0;
 }
 
 .button_clean_libs_ppt {
+  text-align: center;
   display: inline-block;
   padding: 4px 18px;
   padding-bottom: 30px;
