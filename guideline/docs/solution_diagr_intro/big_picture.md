@@ -19,7 +19,7 @@ These domain-specific diagrams showcase solution scenarios across IT landscapes 
 The focus for BTP Solution Diagrams is on creating visually compelling and insightful high-level solution architectures based on the SAP Fiori Horizon design system.
 
 <div className="whatis">
-![areas](../pics/what_is.png)
+![areas](../pics/taskcenter_example.png)
 </div>
 
 
