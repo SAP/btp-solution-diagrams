@@ -18,7 +18,7 @@ BTP Solution Diagrams give you a quick and effective understanding of SAP Busine
 
 -	Download the [draw.io libraries](https://github.com/SAP/btp-solution-diagrams/tree/main/assets/shape-libraries-and-editable-presets/draw.io). 
 
-- Get access to the SAP BTP Service Icons on the [**Lucid Marketplace**](https://lucid.app/marketplace#/listing/999a27ec-33b4-4c2d-a500-5deb01ba0d15)
+- For the [Lucidchart](https://lucid.app/marketplace#/listing/8e327624-ad9a-4ccf-b74c-325bb907a0ef) integration please check the offical documentation how to add the **SAP Business Technology Platform Service Icons**
 
 - Consult the Visual Design Guideline topic available in the content list panel to the left of this page to understand the different diagram elements available in the repository. You can also get it here: [PDF](https://d.dam.sap.com/a/UbBJrVh/SAP-BTP-solution-diagram-design-guideline-v1-public.pdf?rc=10)
 

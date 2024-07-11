@@ -13,6 +13,10 @@ Find a nicely rendered version here: https://sap.github.io/btp-solution-diagrams
 
 You can find an detailed overview how to get started to make use of the BTP Solution Diagrams in our [guideline](/guideline/docs/solution_diagr_intro/intro.md).
 
+How to get started with  [drawio](https://drawio.com/) is documented in the guideline which you can find in the [Getting started](https://sap.github.io/btp-solution-diagrams/docs/solution_diagr_intro/intro/) section.
+
+For the [Lucidchart](https://lucid.app/marketplace#/listing/8e327624-ad9a-4ccf-b74c-325bb907a0ef) integration please check the offical documentation how to add the **SAP Business Technology Platform Service Icons**
+
 ## Support, Feedback, Contributing
 
 This project is open to feature requests/suggestions, bug reports etc. via [GitHub issues](https://github.com/SAP/btp-solution-diagrams/issues). Contribution and feedback are encouraged and always welcome. For more information about how to contribute, the project structure, as well as additional contribution information, see our [Contribution Guidelines](CONTRIBUTING.md).
