@@ -16,7 +16,15 @@ BTP Solution Diagrams give you a quick and effective understanding of SAP Busine
 
 - Consult the SAP BTP Solution Diagram guideline. It is based on the new Horizon 2023 design principles and gives you the basic information you need to start using the templates to build your solution diagram.
 
--	Download the [draw.io libraries](https://github.com/SAP/btp-solution-diagrams/tree/main/assets/shape-libraries-and-editable-presets/draw.io). 
+-	Download the [draw.io libraries](https://github.com/SAP/btp-solution-diagrams/tree/main/assets/shape-libraries-and-editable-presets/draw.io) which we provide in different sizes (S, M, L). We also provide the BTP service icons in different categories:
+  -  [Foundational icons](https://github.com/SAP/btp-solution-diagrams/tree/main/assets/shape-libraries-and-editable-presets/draw.io/20-02-00-sap-btp-service-icons-foundational-set)
+  - [Integration suite icons](https://github.com/SAP/btp-solution-diagrams/tree/main/assets/shape-libraries-and-editable-presets/draw.io/20-02-01-sap-btp-service-icons-integration-suite-set)
+  - [Application Development & Automation](https://github.com/SAP/btp-solution-diagrams/tree/main/assets/shape-libraries-and-editable-presets/draw.io/20-02-02-sap-btp-service-icons-app-dev-automation-set)
+  - [Data & Analytics](https://github.com/SAP/btp-solution-diagrams/tree/main/assets/shape-libraries-and-editable-presets/draw.io/20-02-04-sap-btp-service-icons-data-analytics-set)
+  - [AI icons](https://github.com/SAP/btp-solution-diagrams/tree/main/assets/shape-libraries-and-editable-presets/draw.io/20-02-05-sap-btp-service-icons-ai-set)
+
+And many more libraries for different usage in your **BTP Solution Diagram*!
+
 
 - For the [Lucidchart](https://lucid.app/marketplace#/listing/8e327624-ad9a-4ccf-b74c-325bb907a0ef) integration please check the offical documentation how to add the **SAP Business Technology Platform Service Icons**
 
