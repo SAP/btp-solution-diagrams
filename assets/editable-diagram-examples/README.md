@@ -13,8 +13,4 @@ We will provide here based on the audience knowledge level L0-L2 diagram for the
 - [SAP_Cloud_Identity_Services_Authorization_L2](SAP_Cloud_Identity_Services_Authorization_L1.drawio)
 - [SAP_Cloud_Identity_Services_Identity_Lifecycle_L2](SAP_Cloud_Identity_Services_Identity_Lifecycle_L1.drawio)
 
-- 
-
-
-
-Pleas clone the repository or download the associated .drawio file.
+**Pleas clone the repository or download the associated .drawio file.**
