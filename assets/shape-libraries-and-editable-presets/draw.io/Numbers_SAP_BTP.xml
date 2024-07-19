@@ -119,27 +119,6 @@
     "title": "Number_Accent3"
   },
   {
-    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"&amp;lt;p style=&amp;quot;line-height: 100%;&amp;quot;&amp;gt;&amp;lt;b&amp;gt;&amp;lt;font face=&amp;quot;arial black&amp;quot; style=&amp;quot;font-size: 16px;&amp;quot; color=&amp;quot;#ffffff&amp;quot;&amp;gt;1&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt;&amp;lt;/p&amp;gt;\" style=\"ellipse;whiteSpace=wrap;html=1;aspect=fixed;rotation=0;gradientColor=#aa0808;strokeColor=none;gradientDirection=east;fillColor=#ff5c77;rounded=0;pointerEvents=0;fontFamily=Helvetica;fontSize=12;fontColor=default;spacingTop=4;spacingBottom=4;spacingLeft=4;spacingRight=4;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"30\" height=\"30\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
-    "w": 30,
-    "h": 30,
-    "aspect": "fixed",
-    "title": "Number_Negative"
-  },
-  {
-    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"&amp;lt;p style=&amp;quot;line-height: 100%;&amp;quot;&amp;gt;&amp;lt;b&amp;gt;&amp;lt;font face=&amp;quot;arial black&amp;quot; style=&amp;quot;font-size: 16px;&amp;quot; color=&amp;quot;#ffffff&amp;quot;&amp;gt;1&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt;&amp;lt;/p&amp;gt;\" style=\"ellipse;whiteSpace=wrap;html=1;aspect=fixed;rotation=0;gradientColor=#256F3A;strokeColor=none;gradientDirection=east;fillColor=#5dc122;rounded=0;pointerEvents=0;fontFamily=Helvetica;fontSize=12;fontColor=default;spacingTop=4;spacingBottom=4;spacingLeft=4;spacingRight=4;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"30\" height=\"30\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
-    "w": 30,
-    "h": 30,
-    "aspect": "fixed",
-    "title": "Number_Positive"
-  },
-  {
-    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"&amp;lt;p style=&amp;quot;line-height: 100%;&amp;quot;&amp;gt;&amp;lt;b&amp;gt;&amp;lt;font face=&amp;quot;arial black&amp;quot; style=&amp;quot;font-size: 16px;&amp;quot; color=&amp;quot;#ffffff&amp;quot;&amp;gt;1&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt;&amp;lt;/p&amp;gt;\" style=\"ellipse;whiteSpace=wrap;html=1;aspect=fixed;rotation=0;gradientColor=#C35500;strokeColor=none;gradientDirection=east;fillColor=#FFB300;rounded=0;pointerEvents=0;fontFamily=Helvetica;fontSize=12;fontColor=default;spacingTop=4;spacingBottom=4;spacingLeft=4;spacingRight=4;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"30\" height=\"30\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
-    "w": 30,
-    "h": 30,
-    "aspect": "fixed",
-    "title": "Number_Critical"
-  },
-  {
     "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"&amp;lt;p style=&amp;quot;line-height: 100%;&amp;quot;&amp;gt;&amp;lt;b&amp;gt;&amp;lt;font face=&amp;quot;arial black&amp;quot; style=&amp;quot;font-size: 16px;&amp;quot; color=&amp;quot;#ffffff&amp;quot;&amp;gt;1&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt;&amp;lt;/p&amp;gt;\" style=\"ellipse;whiteSpace=wrap;html=1;aspect=fixed;rotation=0;gradientColor=#07838f;strokeColor=none;gradientDirection=east;fillColor=#00ceac;rounded=0;pointerEvents=0;fontFamily=Helvetica;fontSize=12;fontColor=default;spacingTop=4;spacingBottom=4;spacingLeft=4;spacingRight=4;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"30\" height=\"30\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
     "w": 30,
     "h": 30,
