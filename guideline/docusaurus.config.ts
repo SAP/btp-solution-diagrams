@@ -119,11 +119,7 @@ const config: Config = {
             {
               label: 'FAQ',
               to: '/faq',
-            },
-            {
-              label: 'Legal Disclosure',
-              href: 'https://www.sap.com/corporate/en/legal/impressum.html'
-            },
+            }
           ],
         },
         {
