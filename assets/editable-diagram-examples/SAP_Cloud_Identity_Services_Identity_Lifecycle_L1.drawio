@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2024-07-12T14:11:36.249Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.4.8 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="uqzsA1DkBc1X3bND4MAK" version="24.4.8" type="device">
-  <diagram name="L1" id="m9qa-WHbfBLWxVzqkJny">
-    <mxGraphModel dx="3652" dy="2505" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.8 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.8">
+  <diagram name="SAP_Cloud_Identity_Services_Identity_Lifecycle_L1" id="m9qa-WHbfBLWxVzqkJny">
+    <mxGraphModel dx="3364" dy="2335" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="WXxtYBOuJOK_NInGcJ7v-0" />
         <mxCell id="WXxtYBOuJOK_NInGcJ7v-1" parent="WXxtYBOuJOK_NInGcJ7v-0" />
