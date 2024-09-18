@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.8 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.8">
   <diagram name="SAP_Document_Grounding_L2" id="icKvMTMdYwRn-im4hqiE">
-    <mxGraphModel dx="2195" dy="681" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1658" dy="324" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,10 +22,10 @@
         <mxCell id="n7TMKBVMU3mKDdDENP5A-5" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0070F2;fillColor=#EBF8FF;arcSize=24;absoluteArcSize=1;imageWidth=64;imageHeight=64;strokeWidth=1.5;container=0;" parent="1" vertex="1">
           <mxGeometry x="-986" y="286" width="340" height="239.16" as="geometry" />
         </mxCell>
-        <mxCell id="n7TMKBVMU3mKDdDENP5A-15" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=blockThin;endFill=1;strokeWidth=1.5;strokeColor=#188918;endSize=4;startSize=4;" parent="1" edge="1">
+        <mxCell id="n7TMKBVMU3mKDdDENP5A-15" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=blockThin;endFill=1;strokeWidth=1.5;strokeColor=#188918;endSize=4;startSize=4;entryX=0.289;entryY=1.001;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1" target="n7TMKBVMU3mKDdDENP5A-5">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-886" y="526" as="targetPoint" />
-            <mxPoint x="-888" y="594.3507462686566" as="sourcePoint" />
+            <mxPoint x="-887" y="539.14" as="targetPoint" />
+            <mxPoint x="-889" y="607.4907462686566" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="n7TMKBVMU3mKDdDENP5A-16" value="OIDC" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#188918;strokeWidth=1.5;arcSize=16;fillColor=#F5FAE5;perimeterSpacing=0;absoluteArcSize=1;fontColor=#188918;fontSize=10;fontStyle=1" parent="1" vertex="1">
