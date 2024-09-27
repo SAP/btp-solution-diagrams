@@ -850,7 +850,21 @@ padding-top: 25px;
 .cis_l2{
   width: 750px;
   height: 450px;
-  margin-bottom: 80px !important;
+  margin-bottom: 150px !important;
+  padding-top: 0px;
+}
+
+.pls_l2{
+  width: 750px;
+  height: 450px;
+  margin-bottom: 800px !important;
+  padding-top: 0px;
+}
+
+.dg_l2{
+  width: 750px;
+  height: 450px;
+  margin-bottom: 150px !important;
   padding-top: 0px;
 }
 
