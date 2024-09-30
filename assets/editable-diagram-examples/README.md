@@ -17,3 +17,5 @@ We will provide here based on the audience level L0-L2 diagram for the following
 - [SAP Document Grounding L2](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&page=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2FSAP%2Fbtp-solution-diagrams%2Fmain%2Fassets%2Feditable-diagram-examples%2F/Document_Grounding_L2.drawio)
 
 - [SAP Private Link Service L2](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&page=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2FSAP%2Fbtp-solution-diagrams%2Fmain%2Fassets%2Feditable-diagram-examples%2FSAP_Private_Link_Service_L2.drawio)
+
+- [SAP Start L2](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&page=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2FSAP%2Fbtp-solution-diagrams%2Fmain%2Fassets%2Feditable-diagram-examples%2FSAP_Start_L2.drawio)
