@@ -10,11 +10,10 @@ tags:
 
 # Examples
 
-:::tip
-To zoom in or edit click on the image !
-:::
-
 ## SAP Task Center Example - L1
+:::tip
+To zoom in or edit please click on the image !
+:::
 
 <div className="stc_l0">
 Reusable BTP Solution Diagram Template can be found [here](https://github.com/SAP/btp-solution-diagrams/blob/main/assets/editable-diagram-examples/README.md)
@@ -27,6 +26,9 @@ Reusable BTP Solution Diagram Template can be found [here](https://github.com/SA
 
 
 ## SAP Task Center Example - L2
+:::tip
+To zoom in or edit please click on the image !
+:::
 
 <div className="stc_l1">
 Reusable BTP Solution Diagram Template can be found [here](https://github.com/SAP/btp-solution-diagrams/blob/main/assets/editable-diagram-examples/README.md)
@@ -39,6 +41,9 @@ Reusable BTP Solution Diagram Template can be found [here](https://github.com/SA
 
 
 ## SAP Build Work Zone - L2
+:::tip
+To zoom in or edit please click on the image !
+:::
 
 <div className="wz_l2">
 Reusable BTP Solution Diagram Template can be found [here](https://github.com/SAP/btp-solution-diagrams/blob/main/assets/editable-diagram-examples/README.md)
@@ -51,6 +56,9 @@ Reusable BTP Solution Diagram Template can be found [here](https://github.com/SA
 
 
 ## SAP Cloud Identity Services - Authentication - L2
+:::tip
+To zoom in or edit please click on the image !
+:::
 
 <div className="cis_l2">
 Reusable BTP Solution Diagram Template can be found [here](https://github.com/SAP/btp-solution-diagrams/blob/main/assets/editable-diagram-examples/README.md)
@@ -61,6 +69,9 @@ Reusable BTP Solution Diagram Template can be found [here](https://github.com/SA
 </div>
 
 ## Document Grounding - L2
+:::tip
+To zoom in or edit please click on the image !
+:::
 
 <div className="dg_l2">
 Reusable BTP Solution Diagram Template can be found [here](https://github.com/SAP/btp-solution-diagrams/blob/main/assets/editable-diagram-examples/README.md)
@@ -71,6 +82,9 @@ Reusable BTP Solution Diagram Template can be found [here](https://github.com/SA
 </div>
 
 ## SAP Private Link Service - L2
+:::tip
+To zoom in or edit please click on the image !
+:::
 
 <div className="pls_l2">
 Reusable BTP Solution Diagram Template can be found [here](https://github.com/SAP/btp-solution-diagrams/blob/main/assets/editable-diagram-examples/README.md)
