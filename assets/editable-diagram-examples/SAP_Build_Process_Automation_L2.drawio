@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.17 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.17">
   <diagram name="SAP_Build_Process_Automation_L2" id="oFvMTZ7YrolDxY1caR5L">
-    <mxGraphModel dx="3122" dy="3037" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3932" dy="3871" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="-Aj5rOMPWS9pz5DeyN8X-0" />
         <mxCell id="-Aj5rOMPWS9pz5DeyN8X-1" parent="-Aj5rOMPWS9pz5DeyN8X-0" />
@@ -588,6 +588,9 @@
             <mxPoint x="-1190.5" y="-1747" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="qPtRohesvWpZJ28A88jl-11" value="" style="shape=image;editableCssRules=.*;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0wLjUgLTAuNSAyNS4yIDI4IiBoZWlnaHQ9IjI4IiB3aWR0aD0iMjUuMiI+JiN4YTsJICA8c3R5bGUgdHlwZT0idGV4dC9jc3MiPi5zdDAgeyBzdG9wLWNvbG9yOiByZ2IoMzUsIDE0OSwgMjU1KTsgfSAuc3QxIHsgc3RvcC1jb2xvcjogcmdiKDAsIDg3LCAyMTApOyB9IDwvc3R5bGU+JiN4YTsJPGRlZnM+JiN4YTsJCTxsaW5lYXJHcmFkaWVudCBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeTI9IjIzLjA1NyIgeDI9IjIzLjEyNiIgeTE9IjMuNDc0IiB4MT0iMS43ODUiIGlkPSJBIj4mI3hhOwkJCTxzdG9wIGNsYXNzPSJzdDAiLz4mI3hhOwkJCTxzdG9wIGNsYXNzPSJzdDEiIG9mZnNldD0iMSIvPiYjeGE7CQk8L2xpbmVhckdyYWRpZW50PiYjeGE7CTwvZGVmcz4mI3hhOwk8cGF0aCBmaWxsPSJ1cmwoI0EpIiBkPSJNMTEuNzU3LS40ODNDMTEuNDQ1LS40MDEuMTg0IDQuNzExLjAyIDQuODM3YTEuNzkgMS43OSAwIDAgMC0uMzU2LjQ3MWwtLjE2NC4zMjN2Ny44ODJWMjEuNGwuMTM3LjI2OGMuMDc3LjE0OC4yMjQuMzQ1LjMzOS40MzguMTMxLjExNSAyLjE3MiAxLjA2MiA1Ljk1OSAyLjc2NCA2LjE4MyAyLjc4MSA2LjA3NCAyLjczNyA2LjU3NyAyLjU2Mi4zOTktLjEzNyAxMS4zNy01LjA4NSAxMS41OTUtNS4yMjcuMjMtLjE0OC40Ni0uNDYuNTM2LS43MjguMDgyLS4yNzQuMDcxLTE1LjY2NS0uMDA2LTE1Ljk1LS4wODItLjI4NS0uMzM0LS42MzUtLjU1OC0uNzY2LS4wOTMtLjA2LTIuNzM2LTEuMjY0LTUuODY2LTIuNjcxLTUuMTYtMi4zMjYtNS43MjQtMi41NjctNi4wMTktMi41ODQtLjE4MS0uMDExLS4zNzgtLjAwNS0uNDM4LjAxMXptNC4yMjQgNC42NTNsMy44MDggMS43NzNjLS4wNjYuMDY2LTcuNTg0IDMuNDQ4LTcuNjc3IDMuNDU0YTM0OS43NSAzNDkuNzUgMCAwIDEtNy43MjYtMy40NTRjLS4wMzMtLjAyNyA3LjU3My0zLjQ5MiA3LjY5My0zLjUwMy4wMjctLjAwNSAxLjc4NC43NzIgMy45MDEgMS43M3ptLTkuNDIzIDUuODQ2bDQuMTMxIDEuODYxdjYuMDA1bC0uMDM4IDYuMDFjLS4wMTYgMC0xLjkwNC0uODQzLTQuMTg2LTEuODY3bC00LjE0OC0xLjg3MnYtNi4wMTVsLjA1NS01Ljk5OWMuMDI3LjAwNSAxLjkxLjg1NCA0LjE4NiAxLjg3N3ptMTUuMzQ5IDQuMTIydjYuMDFsLTQuMTE1IDEuODU1LTQuMjEzIDEuODc4Yy0uMDkzLjAyMi0uMDk4LS4yNzQtLjA4OC01Ljk4OGwuMDE2LTYuMDEgNC4xNTgtMS44NzcgNC4yMDMtMS44NzdjLjAyMiAwIC4wMzggMi43MDQuMDM4IDYuMDF6Ii8+JiN4YTs8L3N2Zz4=;" vertex="1" parent="-Aj5rOMPWS9pz5DeyN8X-1">
+          <mxGeometry x="-1830" y="-1900" width="25" height="28" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
