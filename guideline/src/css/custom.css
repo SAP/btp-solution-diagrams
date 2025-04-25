@@ -12,7 +12,7 @@
   --ifm-color-primary-darkest: #0057D2;
   --ifm-color-primary-light: #FFFFFF;
   ---ifm-color-primary-lighter: #8ea6d8;
-  --ifm-color-primary-lightest: #e8f0ff;
+  ---ifm-color-primary-lightest: #e8f0ff;
   --ifm-color-secondary: #7858FF;
   --ifm-color-secondary-dark: #a9b4be;
   --ifm-background-color:#FFFFFF;
@@ -45,7 +45,7 @@
   --ifm-color-secondary: #7858FF;
   --ifm-color-secondary-dark: #a9b4be;
   --ifm-background-color:#0070F2;
-  --ifm-navbar-link-color: #FFFFFF;
+  --ifm-navbar-link-color: #FFFFFF !important;
   --ifm-navbar-link-hover-color: #6e7f8e;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
   --ifm-navbar-search-input-background-color:#444950;
@@ -53,10 +53,7 @@
   
 }
 
-data-theme='light'] .DocSearch {
-  --ifm-navbar-search-input-background-color: var(--ifm-color-secondary);
-  --docsearch-searchbox-background: var(--ifm-color-secondary);
-}
+
 
 @font-face {
   font-family: '72Bold';
@@ -99,14 +96,6 @@ h2{
   background: linear-gradient(219.4deg, #01ABED -8.19%, #0168B4 108.8%);
 }
 
-.navbar__brand, .navbar__link {
-  color: var(--ifm-navbar-link-color);
-  
-}
-
-[data-theme='dark'] .navbar {
-  background-color: #1a2733;
-}
 
 [data-theme='dark'] h1,
 [data-theme='dark'] h2,
@@ -117,6 +106,11 @@ h2{
 [data-theme='dark'] p,
 [data-theme='dark'] li {
     color: #ffffff;
+}
+
+[data-theme='light'] .DocSearch {
+  --ifm-navbar-search-input-background-color: var(--ifm-color-secondary);
+  --docsearch-searchbox-background: var(--ifm-color-secondary);
 }
 
 .features_src-components-HomepageFeatures-styles-module {
@@ -691,7 +685,8 @@ html[data-theme='dark'] .navbar__link--demo__repo {
 
 .navbar__items navbar__items--right{
  font-size: 14px !important;; 
-  font-weight: 600 !important;;
+  font-weight: 600 !important;
+  color: #FFFFFF;
 }
 
 .footer{
