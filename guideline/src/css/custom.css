@@ -618,11 +618,23 @@ margin: 6rem 0;
 }
 
 .navbar__link--demo__repo{
+  background: url('/img/github.svg') no-repeat center;
+  background-size: contain;
+    width: 24px;
+    height: 24px;
+    display: inline-block;
+    margin-right: 10px;
+    margin-left: 10px;
+
+}
+
+/*.navbar__link--demo__repo{
+  background: url('/img/github.svg') no-repeat center;
   font-size: 14px;
   font-weight: 600;
   padding: 2px 22px;
 
-}
+}*/
 .navbar__link--demo__repo::before{
   display: inline-block;
   font-size: 14px;
