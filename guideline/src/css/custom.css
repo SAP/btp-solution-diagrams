@@ -11,10 +11,10 @@
   --ifm-color-primary-darker: #0070F2;
   --ifm-color-primary-darkest: #0057D2;
   --ifm-color-primary-light: #FFFFFF;
-  --ifm-color-primary-lighter: #C2FCEE;
-  --ifm-color-primary-lightest: #E1F4FF;
+  ---ifm-color-primary-lighter: #8ea6d8;
+  --ifm-color-primary-lightest: #e8f0ff;
   --ifm-color-secondary: #7858FF;
-  --ifm-color-secondary-dark:#C2FCEE;
+  --ifm-color-secondary-dark: #a9b4be;
   --ifm-background-color:#FFFFFF;
   --ifm-link-color: #0057D2;
   --ifm-navbar-link-hover-color: #556B82;
@@ -22,12 +22,12 @@
   --ifm-menu-color-active: #0057D2;
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
-  --ifm-font-family-base: Arial,Helvetica ;
+  --ifm-font-family-base: '72Bold', Arial,Helvetica ;
   --ifm-h1-font-size: 3rem;
   --ifm-heading-font-weight: 900;
   --ifm-footer-link-color: #0064D9;
   --ifm-table-stripe-background: none;
-  --ifm-navbar-search-input-background-color:#FFFFFF;
+  --ifm-navbar-search-input-background-color:#EBEDF0;
   --ifm-navbar-link-color: #1a2733;
   --ifm-heading-font-family: '72Bold';
 }
@@ -36,19 +36,26 @@
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
   --ifm-color-primary: #DCF3FF;
-  --ifm-color-primary-dark: #5CC0FF;
-  --ifm-color-primary-darker: #0070F2;
-  --ifm-color-primary-darkest: #0057D2;
+  --ifm-color-primary-dark: #122664;
+  --ifm-color-primary-darker: #002a86;
+  --ifm-color-primary-darkest: #00144a;
   --ifm-color-primary-light: #D1EFFF;
-  --ifm-color-primary-lighter: #C2FCEE;
-  --ifm-color-primary-lightest: #E1F4FF;
+  --ifm-color-primary-lighter: #8ea6d8;
+  --ifm-color-primary-lightest: #e8f0ff;
   --ifm-color-secondary: #7858FF;
-  --ifm-color-secondary-dark:#C2FCEE;
-  --ifm-background-color:#0070F2 !important;
-  --ifm-navbar-link-hover-color: #01abed;
+  --ifm-color-secondary-dark: #a9b4be;
+  --ifm-background-color:#0070F2;
+  --ifm-navbar-link-color: #FFFFFF;
+  --ifm-navbar-link-hover-color: #6e7f8e;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+  --ifm-navbar-search-input-background-color:#444950;
   
   
+}
+
+data-theme='light'] .DocSearch {
+  --ifm-navbar-search-input-background-color: var(--ifm-color-secondary);
+  --docsearch-searchbox-background: var(--ifm-color-secondary);
 }
 
 @font-face {
@@ -96,6 +103,22 @@ h2{
   color: var(--ifm-navbar-link-color);
   
 }
+
+[data-theme='dark'] .navbar {
+  background-color: #1a2733;
+}
+
+[data-theme='dark'] h1,
+[data-theme='dark'] h2,
+[data-theme='dark'] h3,
+[data-theme='dark'] h4,
+[data-theme='dark'] h5,
+[data-theme='dark'] h6,
+[data-theme='dark'] p,
+[data-theme='dark'] li {
+    color: #ffffff;
+}
+
 .features_src-components-HomepageFeatures-styles-module {
   display: flex;
   align-items: center;
@@ -628,6 +651,12 @@ margin: 6rem 0;
 
 }
 
+/* Dark mode styles */
+html[data-theme='dark'] .navbar__link--demo__repo {
+  background: url('/img/github-mark-white.svg') no-repeat center;
+  background-size: contain;
+}
+
 /*.navbar__link--demo__repo{
   background: url('/img/github.svg') no-repeat center;
   font-size: 14px;
@@ -669,7 +698,7 @@ margin: 6rem 0;
   align-items: center;
   margin-left: 0rem;
   margin-right: 0px;
-  color: #000000;
+ 
 
 }
 
@@ -700,14 +729,59 @@ margin: 6rem 0;
   
 }
 
+/* Sidebar styling in dark mode */
+[data-theme='dark'] .menu__link--active {
+  background-color: var(--ifm-background-color-selected-item) !important;
+  color: #0057D2 !important;
+  font-weight: bold !important;
+}
+
+[data-theme='dark'] .menu__list-item .menu__list {
+  border-left: 2px solid #444950 !important; /* Vertical line */
+}
+
+[data-theme='dark'] .menu__list-item-collapsible > .menu__link {
+  background-color: transparent !important;
+  color: #fff !important;
+}
+
+[data-theme='dark'] .menu__list-item-collapsible--active > .menu__link {
+  background-color: var(--ifm-background-color-selected-item) !important;
+  color: #fff !important;
+  font-weight: bold !important;
+}
+
+[data-theme='dark'] .menu__list-item-collapsible--active {
+  background: var(--ifm-background-color-selected-item) !important;
+}
+
+[data-theme='dark'] .menu__list-item-collapsible > .menu__link:not(.menu__link--active) {
+  background-color: transparent !important;
+  color: #fff !important;
+}
+
+[data-theme='dark'] .menu__link:not(.menu__link--active) {
+  background-color: transparent !important;
+  color: #fff !important;
+}
+
+[data-theme='dark'] .menu__link:not(.menu__link--active):hover {
+  background-color: rgba(255, 255, 255, 0.1) !important;
+  color: #fff !important;
+}
+
 .menu__link--active:not(.menu__link--sublist){
 
-  background-color: #D1EFFF;
+  background-color: var(--ifm-sidebar-selected-item-background-color);
 }
 
-.menu__link:hover {
-  background-color: #D1EFFF !important;
+[data-theme='dark'] .menu__list-item-collapsible--active > .menu__link {
+  background-color: var(--ifm-background-color-selected-item) !important;
+  color: #fff !important;
+  font-weight: bold !important;
 }
+
+
 
 .pagination-nav__link{
 
