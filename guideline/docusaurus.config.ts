@@ -78,7 +78,7 @@ const config: Config = {
     colorMode: {
       defaultMode: 'light',
       respectPrefersColorScheme: false,
-      disableSwitch: true
+      disableSwitch: false
       },
     navbar: {
       title: 'BTP Solution Diagrams',
