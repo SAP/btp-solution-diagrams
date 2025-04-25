@@ -65,7 +65,7 @@ export default function Home(): JSX.Element {
       <OverviewSection />
       <GuidelineSection/>
      <LibrariesSection/>
-     <CommunitySection/>
+     
       
       
       
