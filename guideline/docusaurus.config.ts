@@ -25,21 +25,27 @@ const config: Config = {
   onBrokenLinks: 'log',
   onBrokenMarkdownLinks: 'throw',
 
-  i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
-  },
-   /*plugins: [
+  
+   plugins: [
     [
      require.resolve("@easyops-cn/docusaurus-search-local"),
       {
         hashed: true,
         indexDocs: true,
         indexPages: true,
-        indexBlog: false
-     
-    ],
-  ], }*/
+        indexBlog: false,
+        language: ['en'],
+        highlightSearchTermsOnTargetPage: true,
+        removeDefaultStopWordFilter: true,
+        removeDefaultStemmer: true,
+      }
+    ], 
+  ], 
+
+  i18n: {
+    defaultLocale: 'en',
+    locales: ['en'],
+  },
   presets: [
     [
       'classic',
@@ -94,17 +100,18 @@ const config: Config = {
        
         {
           position: 'right',
-          label: 'GitHub Repository',
+          /* label: 'GitHub Repository',*/
+          title: 'Visit GitHub Repository',
           className: 'navbar__link--demo__repo',
           href: 'https://github.com/SAP/btp-solution-diagrams/tree/main',
          
         },
-        { 
+        /*{ 
           label: 'GitHub Discussions',
           position: 'right',
           className: 'navbar__link--demo__faq',
           href: 'https://github.com/SAP/btp-solution-diagrams/discussions',
-        },
+        },*/
        
         
       ],
