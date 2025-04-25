@@ -123,7 +123,7 @@ margin: 6rem 0;
   justify-content: center;
   flex-shrink: 0;
   font-weight: 900;
-  color: #1D2D3E;
+  color: #FFFFFF;
   font-family: '72Black';
   line-height: 100%;
   
@@ -139,7 +139,7 @@ margin: 6rem 0;
   padding-top: 0rem;
   font-family: '72Medium';
   font-size: 22px;
-  color: #223548;
+  color: #FFFFFF;
   line-height: normal;
   
 } 
@@ -163,7 +163,7 @@ margin: 6rem 0;
 }
 
 .hero_banner {
-  background-color: #EBF8FF;
+  background-color: #00144A;
   max-width: 3480px;
   height: 420px;
   margin: 0 auto;
@@ -515,7 +515,6 @@ margin: 6rem 0;
 
 .navbar--fixed-top{
   position: sticky;
-  height: 82px;
   z-index: var(--ifm-z-index-fixed);
 }
 
