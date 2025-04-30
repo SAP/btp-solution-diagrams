@@ -4,6 +4,8 @@ import clsx from 'clsx';
 import useBaseUrl from '@docusaurus/useBaseUrl'
 import ThemedImage from '@theme/ThemedImage'
 import Link from '@docusaurus/Link';
+import { Button } from '@ui5/webcomponents-react';
+import '@ui5/webcomponents-icons/dist/AllIcons';
 
 export default function OverviewSection(): JSX.Element {
   return (
@@ -24,15 +26,21 @@ export default function OverviewSection(): JSX.Element {
             so please send us any feedback and ideas to help us in this direction.<br/> 
             </p>
 
+            <Link class="button_drawio" to="https://github.com/SAP/btp-solution-diagrams/tree/main/assets/shape-libraries-and-editable-presets/draw.io">
+            <Button design="Emphasized" style={{ width: 150 }}>draw.io</Button>
+            </Link>
+
+            <Link class="button_lucid" to="https://lucid.app/marketplace#/listing/8e327624-ad9a-4ccf-b74c-325bb907a0ef">
+            <Button design="Emphasized" style={{ width: 150 }}>Lucidchart</Button>
+            </Link>
+
+            <Link to="https://dam.sap.com/mac/u/a/e7KMGSu.htm?rc=10&includeRelatedAssets=true">
+            <Button design="Emphasized" style={{ width: 150 }}>Powerpoint</Button>
+            </Link>
             
-            <div className="lib_buttons">
-          <Link className="button_filled_libs" to="https://github.com/SAP/btp-solution-diagrams/tree/main/assets/shape-libraries-and-editable-presets/draw.io">draw.io
-          </Link>
-          <Link className="button_filled_libs_lucid" to="https://lucid.app/marketplace#/listing/8e327624-ad9a-4ccf-b74c-325bb907a0ef">Lucidchart 
-          </Link>
-          <Link className="button_clean_libs_ppt" to="https://dam.sap.com/mac/u/a/e7KMGSu.htm?rc=10&includeRelatedAssets=true">Powerpoint 
-          </Link><br/>
-            </div>
+
+            
+           
             
                     </div> 
             </div>
