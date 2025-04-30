@@ -53,27 +53,37 @@
   
 }
 
-
+@font-face {
+  font-family: '72';
+  src: url('../css/font/72Brand-Bold.woff2') format('woff2');
+  font-weight: bold;
+}
 
 @font-face {
   font-family: '72Bold';
-  src: url('../css/font/72Brand-Bold.woff2');
+  src: url('../css/font/72Brand-Bold.woff2') format('woff2');
 }
 
 @font-face {
   font-family: '72Black';
-  src: url('../css/font/72Brand-Black.woff2');
+  src: url('../css/font/72Brand-Black.woff2') format('woff2');
 }
 
 
 @font-face {
   font-family: '72Medium';
-  src: url('../css/font/72Brand-Medium.woff2');
+  src: url('../css/font/72Brand-Medium.woff2') format('woff2');
 }
 
 @font-face {
   font-family: '72Regular';
-  src: url('../css/font/72Brand-Regular.woff2');
+  src: url('../css/font/72Brand-Regular.woff2') format('woff2');
+  
+}
+
+ui5-button::part(button) {
+  font-weight: bold;
+  font-family: '72Bold';
   
 }
 
@@ -197,12 +207,12 @@ margin: 6rem 0;
   
 } 
 
-.header_button{
+/*.header_button{
 
   margin: 0rem -1rem;
   padding-left: 1rem;
 
-}
+}*/
 
 .container {
   align-items: center;
@@ -241,7 +251,8 @@ margin: 6rem 0;
 
 .overview {
   padding: 7.5rem 0rem;
-  margin: 0rem 0rem;
+  margin-bottom: 5rem;
+  margin-top: -5rem;
 }
 .overview_body {
   margin: -14rem -0rem;
@@ -257,14 +268,7 @@ margin: 6rem 0;
   flex-shrink: 0;
 }
 
-.overview_buttons{
-  padding: 0rem 0rem;
-  margin: 0rem 0rem;
-  
-}
-
-.button_filled_overview {
-  /*display: inline-block;*/
+/*.button_filled_overview {
   display: flex;
   flex-direction: row;
 
@@ -280,7 +284,7 @@ margin: 6rem 0;
   text-decoration: none;
   justify-content: center;
   align-items: center;
-  /*margin-right: 10px;*/
+  
   font-size: 16px;
   font-weight: 600;
   font-family: '72Bold';
@@ -294,7 +298,7 @@ margin: 6rem 0;
   background-color: #002a86;
   border: 1px solid #002a86;
 
-}
+}*/
 
 .guideline {
   padding: 18rem 0rem;
@@ -320,8 +324,9 @@ margin: 6rem 0;
 }
 
 .libraries {
-  padding: 22rem 0rem;
+  padding: 12rem 0rem;
   margin-top: -19rem;
+  margin-bottom: 10rem;
 }
 
 .libraries_body{
@@ -396,7 +401,7 @@ margin: 6rem 0;
   width: 160px;
   height: 35px;
   background-color: #0064D9;
-  border: 1px solid #BCC3CA;
+  border: 1px solid ;
   border-radius: 8px;
   color: #FFFFFF;
   text-decoration: none;
@@ -444,6 +449,14 @@ margin: 6rem 0;
   background-color: #002a86;
   border: 1px solid #002a86;
   
+}
+
+.button_drawio{
+  padding-right: 18px;
+}
+
+.button_lucid{
+  padding-right: 18px;
 }
 
 .button_filled_libs {
@@ -546,7 +559,7 @@ margin: 6rem 0;
   width: 169px;
   height: 35px;
   background-color: #FFFFFF;
-  border: 1px solid #BCC3CA;
+  border: 1px solid #00144a;
   color: #FFFFFF;
   border-radius: 8px;
   text-decoration: none;
@@ -577,7 +590,7 @@ margin: 6rem 0;
 
 
 }
-.button_clean_community {
+/*.button_clean_community {
     display: inline-block;
     padding: 4px 34px;
     padding-bottom: 30px;
@@ -635,7 +648,7 @@ margin: 6rem 0;
   background-color: #002a86;
   border: 1px solid #002a86;
   
-}
+}*/
 
 .navbar__link--demo__res::before {
   display: inline-block;

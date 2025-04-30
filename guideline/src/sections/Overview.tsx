@@ -4,6 +4,8 @@ import clsx from 'clsx';
 import useBaseUrl from '@docusaurus/useBaseUrl'
 import ThemedImage from '@theme/ThemedImage'
 import Link from '@docusaurus/Link';
+import { Button } from '@ui5/webcomponents-react';
+import '@ui5/webcomponents-icons/dist/AllIcons';
 
 
 export default function OverviewSection(): JSX.Element {
@@ -28,10 +30,13 @@ export default function OverviewSection(): JSX.Element {
             Each BTP solution diagram offers a visual outline of the <br/>
             total solution configuration and its operational flow. 
             </p>
-          <div className="overview_buttons">
-          <Link className="button_filled_overview" to="/docs/btp_guideline/examples/">Examples
-          </Link>
-            </div>
+            <Link to="/docs/btp_guideline/examples/">
+                            <Button design="Emphasized" style={{ width: 150 }}>
+                            Examples
+                            </Button>
+                        </Link>
+
+          
                     </div> 
             </div>
             </div>
