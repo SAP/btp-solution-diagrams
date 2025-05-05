@@ -20,12 +20,9 @@ const config: Config = {
   projectName: 'btp-diagram-guideline', // Usually your repo name.
   deploymentBranch: 'gh-pages',
   trailingSlash: true,
-  
-
   onBrokenLinks: 'log',
   onBrokenMarkdownLinks: 'throw',
 
-  
    plugins: [
     './src/plugins/init-ui5-theme',
     [
@@ -51,13 +48,9 @@ const config: Config = {
     [
       'classic',
       {
-        docs: {
-          
+        docs: {         
           sidebarPath: './sidebars.ts',
-          
-    
-        },
-        
+        },     
         theme: {
           customCss: './src/css/custom.css',
         },
@@ -67,18 +60,9 @@ const config: Config = {
 
   themeConfig: 
     {
-    /*  announcementBar: {
-        id: 'btp_new',
-        
-        content:
-          '',
-        backgroundColor: '#EBF8FF',
-        textColor: '#CC00DC',
-        isCloseable: false,
-      },*/
     colorMode: {
       defaultMode: 'light',
-      respectPrefersColorScheme: false,
+      respectPrefersColorScheme: true,
       disableSwitch: false
       },
     navbar: {
@@ -101,20 +85,12 @@ const config: Config = {
        
         {
           position: 'right',
-          /* label: 'GitHub Repository',*/
           title: 'Visit GitHub Repository',
           className: 'navbar__link--demo__repo',
           href: 'https://github.com/SAP/btp-solution-diagrams/tree/main',
          
         },
-        /*{ 
-          label: 'GitHub Discussions',
-          position: 'right',
-          className: 'navbar__link--demo__faq',
-          href: 'https://github.com/SAP/btp-solution-diagrams/discussions',
-        },*/
-       
-        
+
       ],
       
     },
@@ -122,14 +98,18 @@ const config: Config = {
       style: 'light',
       links: [
         {
-          title: 'About SAP BTP Solution Diagrams',
+          title: 'Legal',
           items: [
             {
-              label: 'FAQ',
-              to: '/faq',
-            },
+              label: 'Privacy',
+              href: 'https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement',
+          },
+          {
+              label: 'Terms of Use',
+              href: 'https://www.sap.com/about/legal/terms-of-use.html',
+          },
             {
-              label: 'Legal Disclosure',
+              label: 'Legal Statement',
               href: 'https://www.sap.com/corporate/en/legal/impressum.html'
             }
           ],

@@ -1,8 +1,5 @@
 
 import React from 'react'
-import clsx from 'clsx';
-import useBaseUrl from '@docusaurus/useBaseUrl'
-import ThemedImage from '@theme/ThemedImage'
 import Link from '@docusaurus/Link';
 import { Button } from '@ui5/webcomponents-react';
 import '@ui5/webcomponents-icons/dist/AllIcons';
@@ -37,11 +34,7 @@ export default function OverviewSection(): JSX.Element {
             <Link to="https://dam.sap.com/mac/u/a/e7KMGSu.htm?rc=10&includeRelatedAssets=true">
             <Button design="Emphasized" style={{ width: 150 }}>Powerpoint</Button>
             </Link>
-            
-
-            
-           
-            
+     
                     </div> 
             </div>
             <div className="footer_div">

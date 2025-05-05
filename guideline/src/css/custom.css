@@ -25,7 +25,9 @@
   --ifm-font-family-base: '72Bold', Arial,Helvetica ;
   --ifm-h1-font-size: 3rem;
   --ifm-heading-font-weight: 900;
-  --ifm-footer-link-color: #0064D9;
+  --ifm-footer-link-color: #556b82;
+  --ifm-footer-link-hover-color: #6b84a0;
+  --ifm-footer-title-color: var(--ifm-font-color-base);
   --ifm-table-stripe-background: none;
   --ifm-navbar-search-input-background-color:#EBEDF0;
   --ifm-navbar-link-color: #1a2733;
@@ -35,6 +37,8 @@
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
+  --ifm-footer-link-color: #8396a8;
+  --ifm-footer-link-hover-color: #6e7f8e;
   --ifm-color-primary: #DCF3FF;
   --ifm-color-primary-dark: #122664;
   --ifm-color-primary-darker: #002a86;
@@ -268,37 +272,6 @@ margin: 6rem 0;
   flex-shrink: 0;
 }
 
-/*.button_filled_overview {
-  display: flex;
-  flex-direction: row;
-
-  padding: 4px 25px;
-  padding-bottom: 4px;
-  padding-top: 6px;
-  width: 160px;
-  height: 35px;
-  background-color: #0064D9;
-  border: 1px solid #0064D9;
-  border-radius: 8px;
-  color: #FFFFFF;
-  text-decoration: none;
-  justify-content: center;
-  align-items: center;
-  
-  font-size: 16px;
-  font-weight: 600;
-  font-family: '72Bold';
-  
-  
-}
-
-.button_filled_overview:hover {
-  color: #FFFFFF;
-  text-decoration: none;
-  background-color: #002a86;
-  border: 1px solid #002a86;
-
-}*/
 
 .guideline {
   padding: 18rem 0rem;
@@ -348,37 +321,6 @@ margin: 6rem 0;
   margin: 0rem 0rem;
   
 }
-
-/*.community {
-  padding: 1rem 0rem;
-  margin-top: 14rem;
-
-}*/
-
-/*.community_body{
-  margin: 8rem 40rem;
-  width: 600px;
-  height: 301.487px;
-  font-size:18px;
-  flex-shrink: 0;
-  font-family: '72Regular';
-}*/
-
-/*.community_image{
-  
-  margin: -23rem -43rem;
-  width: 600px;
-  height: 301.487px;
-  flex-shrink: 0;
-}*/
-
-/*.announcementBar_node_modules-\@docusaurus-theme-classic-lib-theme-AnnouncementBar-styles-module {
-  font-family: '72Regular';
-  font-size: 16px;
-  color: #FFFFFF !important;
-  --docusaurus-announcement-bar-height: 35px;
-  background-color: #5D36FF  !important;
-}*/
 
 .content_knG7{
   font-family: '72Regular' !important;
@@ -590,65 +532,6 @@ margin: 6rem 0;
 
 
 }
-/*.button_clean_community {
-    display: inline-block;
-    padding: 4px 34px;
-    padding-bottom: 30px;
-    padding-top: 6px;
-    width: 160px;
-    height: 35px;
-    border-radius: 8px;
-    background-color: #0057d2;
-    border: 1px solid #0057d2;
-    color: #FFFFFF;
-    text-decoration: none;
-    justify-content: center;
-    align-items: center;
-    margin-right: 10px;
-    font-size: 16px;
-    font-weight: 600;
-    font-family: '72Bold';
-  
-}
-
-.button_clean_community:hover{
-  color: #FFFFFF;
-  text-decoration: none;
-  background-color: #002a86;
-  border: 1px solid #002a86;
-  
-}
-
-.button_clean_community_wz {
-   display: inline-block;
-   padding: 4px 21px;
-   padding-bottom: 30px;
-   padding-top: 6px;
-   width: 169px;
-   height: 35px;
-    background-color: #FFFFFF;
-    border: 1px solid #BCC3CA;
-    border-radius: 8px;
-    color: #0064D9;
-    text-decoration: none;
-    
-    justify-content: center;
-    align-items: center;
-    margin-right: 10px;
-    font-size: 16px;
-    font-weight: 600;
-    margin-top: 10px;
-    font-family: '72Bold';
-  
-}
-
-.button_clean_community_wz:hover{
-  color: #FFFFFF;
-  text-decoration: none;
-  background-color: #002a86;
-  border: 1px solid #002a86;
-  
-}*/
 
 .navbar__link--demo__res::before {
   display: inline-block;
@@ -747,20 +630,35 @@ html[data-theme='dark'] .navbar__link--demo__repo {
 }
 
 @media screen and (max-width: 996px) {
-  .footer {
-    
-    background-color: #FFFFFF;
+  /* Force the background to match the footer */
+  html[data-theme='light'],
+  body[data-theme='light'] {
+      background-color: #f5f6f7 !important;
+  }
+
+  html[data-theme='dark'],
+  body[data-theme='dark'] {
+      background-color: #0e0f19 !important;
+  }
+
+  /* Ensure footer matches the background */
+  html[data-theme='light'] .footer {
+      background-color: #f5f6f7 !important;
+  }
+
+  html[data-theme='dark'] .footer {
+      background-color: #0e0f19 !important;
   }
 }
 
 
-.footer__link-item:hover{
+/*.footer__link-item:hover{
 
   color: #0064D9;
   text-decoration: none;
   background-color: #EAECEE;
   
-}
+}*/^
 
 .footer__item{
   font-weight: 700;
@@ -772,6 +670,7 @@ html[data-theme='dark'] .navbar__link--demo__repo {
   font-size: 14px;
   
 }
+
 
 /* Sidebar styling in dark mode */
 [data-theme='dark'] .menu__link--active {

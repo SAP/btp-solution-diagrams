@@ -41,18 +41,6 @@ The Button will go directly to the REPO..
       </>
     ),
   },
-  /*{
-    title: 'Collaborate with us',
-    //Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
-    image: "/img/texts.png",
-    description: (
-      <>
-        We invite everyone in this channel to help us improve the BTP Solution diagram guideline. 
-        Share with us how you create solution diagrams, the problems you face, and what you need 
-        for better outcomes.
-      </>
-    ),
-  },*/
 ];
 function Feature({ title, image, description }: FeatureItem) {
   return (

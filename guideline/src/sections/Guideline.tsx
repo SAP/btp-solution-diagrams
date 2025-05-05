@@ -1,8 +1,5 @@
 
 import React from 'react'
-import clsx from 'clsx';
-import useBaseUrl from '@docusaurus/useBaseUrl'
-import ThemedImage from '@theme/ThemedImage'
 import Link from '@docusaurus/Link';
 import { Button } from '@ui5/webcomponents-react';
 import '@ui5/webcomponents-icons/dist/AllIcons';
