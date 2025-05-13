@@ -11,8 +11,9 @@ import '@ui5/webcomponents-icons/dist/AllIcons';
 export default function OverviewSection(): JSX.Element {
   return (
     <section >
-        <div className="container">
+        
         <div className="overview">
+        <div className="container">
             <h2>
                 <b >
                 <HighlightText>What is a BTP Solution Diagram?</HighlightText>

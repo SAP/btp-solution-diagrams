@@ -19,7 +19,8 @@ BTP Solution Diagrams give you a quick and effective understanding of SAP Busine
 ## Native integration for the SAP BTP service icons & shapes
 
 :::tip Important
-**We're happy to share starting with [draw.io](https://github.com/jgraph/drawio/releases/tag/v24.7.5) version 24.7.5 we got now the native integration for the SAP BTP service icons & shapes**
+**We're happy to share starting with [draw.io](https://github.com/jgraph/drawio/releases/tag/v24.7.5) version 24.7.5 we got now the native integration for the SAP BTP service icons & shapes.
+Please keep in mind some of the new icons not availble in the native integration, to get latest icons in draw.io use the [draw.io custom libraries](https://github.com/SAP/btp-solution-diagrams/tree/main/assets/shape-libraries-and-editable-presets/draw.io)   !**
 :::
 
 To add the **SAP BTP service icons & shapes** directly without manual import into **draw.io** you need to follow these steps:
@@ -49,11 +50,9 @@ And many more libraries for different usage in your **BTP Solution Diagram*!
 
 - For the [Lucidchart](https://lucid.app/marketplace#/listing/8e327624-ad9a-4ccf-b74c-325bb907a0ef) integration please check the offical documentation how to add the **SAP Business Technology Platform Service Icons**
 
-- Consult the Visual Design Guideline topic available in the content list panel to the left of this page to understand the different diagram elements available in the repository. You can also get it here: [PDF](https://d.dam.sap.com/a/UbBJrVh/SAP-BTP-solution-diagram-design-guideline-v1-public.pdf?rc=10)
+- Consult the Visual Design Guideline topic available in the content list panel to the left of this page to understand the different diagram elements available in the repository.
 
-- If you only use PowerPoint, then you can also use the provided shapes; check out the examples here: [PPT](https://d.dam.sap.com/a/e7KMGSu?rc=10)
-
-**If you want to have a quick start we also provide a starter kit for **draw.io** [here](https://github.com/SAP/btp-solution-diagrams/tree/main/assets/all-in-one-starter-kits)**
+- If you only use PowerPoint, then you can also use the provided (reduced) shapes; check out the examples here: [PPT](https://d.dam.sap.com/a/e7KMGSu?rc=10)
 
 ## Installing the draw.io diagram editor - the right tool for the right job
 
