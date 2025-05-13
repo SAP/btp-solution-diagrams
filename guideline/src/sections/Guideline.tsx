@@ -1,9 +1,8 @@
 
 import React from 'react'
-import clsx from 'clsx';
-import useBaseUrl from '@docusaurus/useBaseUrl'
-import ThemedImage from '@theme/ThemedImage'
 import Link from '@docusaurus/Link';
+import { Button } from '@ui5/webcomponents-react';
+import '@ui5/webcomponents-icons/dist/AllIcons';
 
 
 export default function GuideSection(): JSX.Element {
@@ -18,27 +17,18 @@ export default function GuideSection(): JSX.Element {
                     <b >Diagram Guideline</b><br />     
             </h2>
                 <p>The BTP Solution Diagram guidelines has been updated. <br />
-                The 2023 version is now synchronized with the Fiori Horizon Design System <br />
+                The version is now synchronized with the Fiori Horizon Design System <br />
                 and will be continuously improved  with ongoing input received from our architect community. Your insights as architects and solution diagram   <br />
                 creators make the BTP Solution Diagram Design <br />
-                Guidelines a living document that not only describes solutions but inspires new ones. We welcome your feedback to enhance the guidelines even further.<br />
-                  <br />
-                  
+                Guidelines a living document that not only describes solutions but inspires new ones. We welcome your feedback to enhance the guidelines even further.<br />                
                 </p>
 
-                
-                <b >
-                Guideline Version 1.1<br />
-               </b> 
-               <br />   
-               
-            <div className="guideline_buttons">
-            <Link
-            className="button_filled_guideline"
-            to="/docs/solution_diagr_intro/big_picture/">Guideline
-          </Link>
-            <a href="https://d.dam.sap.com/a/UbBJrVh/SAP-BTP-solution-diagram-design-guideline-v1-public.pdf?rc=10" target="_blank" className="button_clean_guideline" download>PDF</a>
-            </div>
+               <Link to="/docs/solution_diagr_intro/big_picture/">
+                            <Button design="Emphasized" style={{ width: 150 }}>
+                            Guideline
+                            </Button>
+                        </Link>
+            
             <div className='guideline_image'>
                 <img src="img/guideline@2x.png" />
             </div>

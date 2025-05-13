@@ -4,6 +4,8 @@ import clsx from 'clsx';
 import useBaseUrl from '@docusaurus/useBaseUrl'
 import ThemedImage from '@theme/ThemedImage'
 import Link from '@docusaurus/Link';
+import { Button } from '@ui5/webcomponents-react';
+import '@ui5/webcomponents-icons/dist/AllIcons';
 
 
 export default function HeroSection(): JSX.Element {
@@ -20,18 +22,15 @@ export default function HeroSection(): JSX.Element {
                    BTP Solution Diagram <br /> Repository
                </b>     
             </h1>
-            
-            
             <div className="header_body">
                 <p className="header_body_p">Welcome to the single source of truth for BTP Architects.<br />
                 The repository includes latest updates and ready-to-use templates<br />to develop high quality diagrams of architectural landscapes.
                  </p>
             </div> 
-
-            <div className="header_button">
-          <Link className="button_hero" to="https://github.com/SAP/btp-solution-diagrams/tree/main/assets/all-in-one-starter-kits" target="_blank">Get Starter Kit
-          </Link>
-          </div>
+            <Link to="https://github.com/SAP/btp-solution-diagrams/tree/main/assets/all-in-one-starter-kits" target="_blank">
+            <Button style={{ width: 150 }}>Get Starter Kit</Button>
+            </Link>
+            
           <div className='hero_image'>
                 <img src="img/hero.png" />
             </div>
