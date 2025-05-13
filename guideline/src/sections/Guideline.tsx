@@ -10,17 +10,20 @@ export default function GuideSection(): JSX.Element {
     <section >
     <div className="container">
         <div className="guideline">
-           
-        
+        <div className='guideline_image'>
+                <img src="img/guideline@2x.png" />
+            </div>
         <div className="guideline_body">
         <h2 >
                     <b >Diagram Guideline</b><br />     
             </h2>
                 <p>The BTP Solution Diagram guidelines has been updated. <br />
                 The version is now synchronized with the Fiori Horizon Design System <br />
-                and will be continuously improved  with ongoing input received from our architect community. Your insights as architects and solution diagram   <br />
+                and will be continuously improved  with ongoing input received from our architect community.<br />
+                Your insights as architects and solution diagram   <br />
                 creators make the BTP Solution Diagram Design <br />
-                Guidelines a living document that not only describes solutions but inspires new ones. We welcome your feedback to enhance the guidelines even further.<br />                
+                Guidelines a living document that not only describes solutions but inspires new ones.<br />
+                We welcome your feedback to enhance the guidelines even further.<br />                
                 </p>
 
                <Link to="/docs/solution_diagr_intro/big_picture/">
@@ -28,12 +31,10 @@ export default function GuideSection(): JSX.Element {
                             Guideline
                             </Button>
                         </Link>
-            
-            <div className='guideline_image'>
-                <img src="img/guideline@2x.png" />
-            </div>
-            
+   
         </div>
+        
+        
         </div>
     </div>
 </section>

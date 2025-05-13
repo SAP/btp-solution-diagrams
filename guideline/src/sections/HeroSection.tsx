@@ -11,9 +11,8 @@ import '@ui5/webcomponents-icons/dist/AllIcons';
 export default function HeroSection(): JSX.Element {
   return (
     <section >
-        <div className='hero_banner'>
-
-        
+       <br />
+        <div className='hero_banner'>        
         <div className="container">
         
         <div className="welcome">
@@ -31,9 +30,7 @@ export default function HeroSection(): JSX.Element {
             <Button style={{ width: 150 }}>Get Starter Kit</Button>
             </Link>
             
-          <div className='hero_image'>
-                <img src="img/hero.png" />
-            </div>
+           
             </div>
             
         </div> 

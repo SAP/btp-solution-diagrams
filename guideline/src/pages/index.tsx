@@ -7,11 +7,13 @@ import Heading from '@theme/Heading';
 import ThemedImage from '@theme/ThemedImage'
 import useBaseUrl from '@docusaurus/useBaseUrl'
 import HeroSection from '../sections/HeroSection'
-import OverviewSection from '../sections/Overview'
 import GuidelineSection from '../sections/Guideline'
 import LibrariesSection from '../sections/Libraries'
+import WhatsSection from '../sections/Whats'
+import IconSection from '../sections/Icons'
 
 import styles from './index.module.css';
+import { Icon } from '@ui5/webcomponents-react';
 
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
@@ -52,10 +54,10 @@ export default function Home(): JSX.Element {
       description="Description will go into a meta tag in <head />">
       <main> 
       <HeroSection />
-      <OverviewSection />
+      <WhatsSection/>
       <GuidelineSection/>
-     <LibrariesSection/>
-
+      <LibrariesSection/>
+      <IconSection/>
       </main>
      
     </Layout>
