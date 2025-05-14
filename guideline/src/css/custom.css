@@ -200,6 +200,26 @@ h2{
     flex-shrink: 0;
   }
 
+  .whats_banner {
+  
+    width: 100%;
+
+    background-repeat: no-repeat;
+    padding: 0rem;
+    display: flex;
+    position: relative;
+    
+  }
+
+  p.whats_body_p {
+    font-size: 14px;
+    font-weight: 600;
+    margin-left: 4rem;
+        margin-top: -2rem;
+    margin-top: 10px;
+    text-align: center;
+}
+
   .guideline_body {
     margin: 2rem 0;
     width: 600px;
@@ -330,8 +350,6 @@ margin: 6rem 0;
   position: relative;
   
 }
-
-
 
 /* Force the background to match the footer */
 html[data-theme='light'],
