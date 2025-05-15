@@ -125,10 +125,14 @@ const config: Config = {
               label: 'Explore Diagram Guideline',
               to: '/docs/solution_diagr_intro/big_picture/',
             },
+            {
+              label: 'SAP Architecture Center',
+              href: 'https://architecture.learning.sap.com/',
+            }
           ],
         },
         {
-          title: 'Connect',
+          title: 'SAP Community',
           items: [
            
             {
@@ -136,19 +140,27 @@ const config: Config = {
               href: 'https://community.sap.com/',
             },
             {
-              label: 'GitHub',
-              href: 'https://github.com/SAP/btp-solution-diagrams/discussions',
+              label: 'Blogs',
+              href: 'https://community.sap.com/t5/all-sap-community-blogs/ct-p/all-blogs',
+            },
+            {
+              label: 'Events',
+              href: 'https://community.sap.com/t5/events/ct-p/events',
             }
           ],
         },
         {
-          title: 'Get in Touch',
+          title: 'GitHub',
           items: [
-           
+      
             {
-              label: 'GitHub',
+              label: 'GitHub Repository',
               href: 'https://github.com/SAP/btp-solution-diagrams',
             },
+            {
+              label: 'GitHub Issues',
+              href: 'https://github.com/SAP/btp-solution-diagrams/issues',
+            }
           ],
         },
       ],
