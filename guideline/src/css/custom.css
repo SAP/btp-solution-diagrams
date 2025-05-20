@@ -1028,8 +1028,9 @@ font-size: 12px;
 .whatis{
   width: 500px;
   height: 300px;
-  margin-bottom: 175px;
-padding-top: 0px;
+  margin-bottom: 2rem;
+  margin-left: 6rem;
+  padding-top: 0px;
 }
 
 .drawio_color{

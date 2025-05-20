@@ -23,7 +23,7 @@ export default function OverviewSection(): JSX.Element {
             so please send us any feedback and ideas to help us in this direction.<br/> 
             </p>
 
-            <Link className="button_drawio" to="http://localhost:3000/btp-solution-diagrams/docs/solution_diagr_intro/intro/">
+            <Link className="button_drawio" to="https://sap.github.io/btp-solution-diagrams/docs/solution_diagr_intro/intro/">
             <Button className="button_drawio2" design="Emphasized" style={{ width: 150 }}>draw.io</Button>
             </Link>
 
