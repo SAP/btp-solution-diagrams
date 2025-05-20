@@ -24,6 +24,7 @@ const config: Config = {
   onBrokenMarkdownLinks: 'throw',
 
    plugins: [
+    [require.resolve('docusaurus-plugin-image-zoom'), {}],
     './src/plugins/init-ui5-theme',
     [
      require.resolve("@easyops-cn/docusaurus-search-local"),

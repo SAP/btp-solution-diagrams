@@ -1,11 +1,11 @@
-<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.8 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.8">
+<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/27.0.5 Chrome/134.0.6998.205 Electron/35.3.0 Safari/537.36" version="27.0.5">
   <diagram id="FbstBVE6JiylST8Hq-xM" name="SAP_Task_Center_L2">
-    <mxGraphModel dx="3804" dy="2627" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3196" dy="2248" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="3gaZ6STzcAwrb1w61FeG-6" value="&lt;b style=&quot;border-color: var(--border-color); color: rgb(0, 112, 242); font-family: arial; font-size: 16px;&quot;&gt;SAP Task Center - SAP BTP Solution Diagram&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#1d2d3e;fontFamily=Helvetica;" parent="1" vertex="1">
-          <mxGeometry x="-2319" y="-1631.9999999999998" width="365" height="31" as="geometry" />
+          <mxGeometry x="-2199" y="-1533.9999999999998" width="365" height="31" as="geometry" />
         </mxCell>
         <mxCell id="3gaZ6STzcAwrb1w61FeG-27" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-2315" y="-916" width="641" height="68" as="geometry" />

@@ -19,11 +19,13 @@ BTP Solution Diagrams give you a quick and effective understanding of SAP Busine
 ## Native integration for the SAP BTP service icons & shapes
 
 :::tip Important
-**We're happy to share starting with [draw.io](https://github.com/jgraph/drawio/releases/tag/v24.7.5) version 24.7.5 we got now the native integration for the SAP BTP service icons & shapes.
-Please keep in mind some of the new icons not availble in the native integration, to get latest icons in draw.io use the [draw.io custom libraries](https://github.com/SAP/btp-solution-diagrams/tree/main/assets/shape-libraries-and-editable-presets/draw.io)   !**
+**We're happy to share starting with [draw.io](https://github.com/jgraph/drawio/releases) desktop or the online version of [draw.io](https://www.drawio.com/).
+Good news starting from version 24.7.5 we got now the native integration for the SAP BTP service icons & shapes.
+
+But please keep in mind some of the new icons not availble in the native integration, to get latest icons in draw.io use the [draw.io custom libraries](https://github.com/SAP/btp-solution-diagrams/tree/main/assets/shape-libraries-and-editable-presets/draw.io)!**
 :::
 
-To add the **SAP BTP service icons & shapes** directly without manual import into **draw.io** you need to follow these steps:
+To add the **SAP BTP service icons & shapes** directly without manual import into **draw.io** you need to follow these simple steps:
 
 1. Open draw.io (web or desktop)
 
@@ -39,16 +41,23 @@ To add the **SAP BTP service icons & shapes** directly without manual import int
 
 ## Draw.io libraries for manual import
 
--	Download the [draw.io libraries](https://github.com/SAP/btp-solution-diagrams/tree/main/assets/shape-libraries-and-editable-presets/draw.io) which we provide in different sizes (S, M, L). We also provide the BTP service icons in different categories:
+-	Download the [draw.io libraries](https://github.com/SAP/btp-solution-diagrams/tree/main/assets/shape-libraries-and-editable-presets/draw.io) which we provide in different sizes (S, M, L). 
+
+We also provide the BTP service icons in different categories:
   -  [Foundational icons](https://github.com/SAP/btp-solution-diagrams/tree/main/assets/shape-libraries-and-editable-presets/draw.io/20-02-00-sap-btp-service-icons-foundational-set)
   - [Integration suite icons](https://github.com/SAP/btp-solution-diagrams/tree/main/assets/shape-libraries-and-editable-presets/draw.io/20-02-01-sap-btp-service-icons-integration-suite-set)
   - [Application Development & Automation](https://github.com/SAP/btp-solution-diagrams/tree/main/assets/shape-libraries-and-editable-presets/draw.io/20-02-02-sap-btp-service-icons-app-dev-automation-set)
   - [Data & Analytics](https://github.com/SAP/btp-solution-diagrams/tree/main/assets/shape-libraries-and-editable-presets/draw.io/20-02-04-sap-btp-service-icons-data-analytics-set)
   - [AI icons](https://github.com/SAP/btp-solution-diagrams/tree/main/assets/shape-libraries-and-editable-presets/draw.io/20-02-05-sap-btp-service-icons-ai-set)
+  - [BTP SaaS icons](https://github.com/SAP/btp-solution-diagrams/tree/main/assets/shape-libraries-and-editable-presets/draw.io/20-02-06-sap-btp-service-icons-btp-saas-set)
 
-And many more libraries for different usage in your **BTP Solution Diagram*!
+And many more libraries for different usage in ***your*** **BTP Solution Diagram**!
 
-- For the [Lucidchart](https://lucid.app/marketplace#/listing/8e327624-ad9a-4ccf-b74c-325bb907a0ef) integration please check the offical documentation how to add the **SAP Business Technology Platform Service Icons**
+## Lucidchart
+
+- For the [Lucidchart](https://lucid.app/)integration please check the Lucid [Marketplace](https://lucid.app/marketplace#/listing/8e327624-ad9a-4ccf-b74c-325bb907a0ef) listing where you can easily add all availbel **SAP Business Technology Platform Service Icons**
+
+![Lucid SAP shapes](../pics/lucid_shapes.png)
 
 - Consult the Visual Design Guideline topic available in the content list panel to the left of this page to understand the different diagram elements available in the repository.
 
