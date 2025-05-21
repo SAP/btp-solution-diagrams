@@ -24,13 +24,11 @@ export default function OverviewSection(): JSX.Element {
             </p>
 
             <Link className="button_drawio" to="https://sap.github.io/btp-solution-diagrams/docs/solution_diagr_intro/intro/">
-              <Button className="button_drawio2" design="Emphasized" style={{ width: 150 }}>draw.io</Button>
+            <Button className="button_drawio2" design="Emphasized" style={{ width: 150 }}>draw.io</Button>
             </Link>
-
             <Link className="button_lucid" to="https://lucid.app/marketplace#/listing/8e327624-ad9a-4ccf-b74c-325bb907a0ef">
               <Button className="button_lucid2" design="Emphasized" style={{ width: 150 }}>Lucidchart</Button>
             </Link>
-
             <Link className="button_ppt" to="https://dam.sap.com/mac/u/a/e7KMGSu.htm?rc=10&includeRelatedAssets=true">
               <Button design="Emphasized" style={{ width: 150 }}>Powerpoint</Button>
             </Link>
