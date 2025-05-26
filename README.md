@@ -5,7 +5,7 @@
 ## About this project
 
 [SAP Business Technology Platform](https://pages.community.sap.com/topics/business-technology-platform) solution diagram repository, based on the official SAP Business Technology Platform Solution diagram guideline. This has been designed in accordance with the SAP Fiori Horizon principles and color palette which provides a holistic and pleasing aesthetic end user experience.
-
+The solution diagrams are designed to be used in the context of SAP Business Technology Platform. They are intended to provide a visual representation of the architecture and components of a solution built on the SAP Business Technology Platform.
 
 Find a nicely rendered version here: https://sap.github.io/btp-solution-diagrams/
 
@@ -13,7 +13,7 @@ Find a nicely rendered version here: https://sap.github.io/btp-solution-diagrams
 
 You can find an detailed overview how to get started to make use of the BTP Solution Diagrams in our [guideline](/guideline/docs/solution_diagr_intro/intro.md).
 
-How to get started with  [drawio](https://drawio.com/) is documented in the guideline which you can find in the [Getting started](https://sap.github.io/btp-solution-diagrams/docs/solution_diagr_intro/intro/) section.
+How to get started with [drawio](https://drawio.com/) is documented in the guideline which you can find in the [Getting started](https://sap.github.io/btp-solution-diagrams/docs/solution_diagr_intro/intro/) section.
 
 For the [Lucidchart](https://lucid.app/marketplace#/listing/8e327624-ad9a-4ccf-b74c-325bb907a0ef) integration please check the offical documentation how to add the **SAP Business Technology Platform Service Icons**
 

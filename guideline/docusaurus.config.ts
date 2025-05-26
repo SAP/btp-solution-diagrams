@@ -83,7 +83,6 @@ const config: Config = {
           label: 'Diagram Guideline',
           className: 'navbar__link--demo__res',
         },
-       
         {
           position: 'right',
           title: 'Visit GitHub Repository',
@@ -91,9 +90,7 @@ const config: Config = {
           href: 'https://github.com/SAP/btp-solution-diagrams/tree/main',
          
         },
-
-      ],
-      
+      ], 
     },
     footer: {
       style: 'light',
@@ -141,11 +138,11 @@ const config: Config = {
               href: 'https://community.sap.com/',
             },
             {
-              label: 'Blogs',
+              label: 'SAP Community Blogs',
               href: 'https://community.sap.com/t5/all-sap-community-blogs/ct-p/all-blogs',
             },
             {
-              label: 'Events',
+              label: 'SAP Community Events',
               href: 'https://community.sap.com/t5/events/ct-p/events',
             }
           ],
@@ -153,7 +150,6 @@ const config: Config = {
         {
           title: 'GitHub',
           items: [
-      
             {
               label: 'GitHub Repository',
               href: 'https://github.com/SAP/btp-solution-diagrams',
