@@ -113,19 +113,19 @@ const config: Config = {
           ],
         },
         {
-          title: 'Resources',
+          title: 'GitHub',
           items: [
             {
-              label: 'Starter Kit for draw.io',
-              href: 'https://github.com/SAP/btp-solution-diagrams/tree/main/assets/all-in-one-starter-kits',
+              label: 'GitHub Repository',
+              href: 'https://github.com/SAP/btp-solution-diagrams',
+            },
+            {
+              label: 'GitHub Issues',
+              href: 'https://github.com/SAP/btp-solution-diagrams/issues',
             },
             {
               label: 'Explore Diagram Guideline',
               to: '/docs/solution_diagr_intro/big_picture/',
-            },
-            {
-              label: 'SAP Architecture Center',
-              href: 'https://architecture.learning.sap.com/',
             }
           ],
         },
@@ -148,15 +148,19 @@ const config: Config = {
           ],
         },
         {
-          title: 'GitHub',
+          title: 'More',
           items: [
             {
-              label: 'GitHub Repository',
-              href: 'https://github.com/SAP/btp-solution-diagrams',
+              label: 'SAP Architecture Center',
+              href: 'https://architecture.learning.sap.com/',
             },
             {
-              label: 'GitHub Issues',
-              href: 'https://github.com/SAP/btp-solution-diagrams/issues',
+              label: 'SAP Discovery Center',
+              href: 'https://discovery-center.cloud.sap/',
+            },
+            {
+              label: 'SAP Learning',
+              href: 'https://learning.sap.com/',
             }
           ],
         },
