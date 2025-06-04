@@ -61,6 +61,13 @@ const config: Config = {
 
   themeConfig: 
     {
+    image: 'img/fav_sd.png',
+    metadata: [
+      {
+          name: 'keywords',
+          content: 'sap, btp, architecture, diagrams, solution-diagrams, icons, guideline, sap-btp-diagram-guideline, sap-btp-solution-diagrams',
+      },
+    ],
     colorMode: {
       defaultMode: 'light',
       respectPrefersColorScheme: true,
