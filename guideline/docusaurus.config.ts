@@ -8,20 +8,22 @@ const config: Config = {
   favicon: 'img/favicon.svg',
 
   // Set the production url of your site here
-  url: 'https://github.com/',
+  url: 'https://sap.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  //baseUrl: '/sap/btp-diagram-guideline',
   baseUrl: '/btp-solution-diagrams/',
-  githubHost:'github.com',
+  githubHost: 'github.com',
+  //baseUrl: '/',
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'sap', // Usually your GitHub org/user name.
   projectName: 'btp-diagram-guideline', // Usually your repo name.
   deploymentBranch: 'gh-pages',
   trailingSlash: true,
-  onBrokenLinks: 'log',
+  onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'throw',
+  onDuplicateRoutes: 'throw',
+  onBrokenAnchors: 'warn',
 
    plugins: [
     [require.resolve('docusaurus-plugin-image-zoom'), {}],
