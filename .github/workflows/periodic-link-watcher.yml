@@ -15,10 +15,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout source code
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
       - name: Link Checker
         id: lychee
-        uses: lycheeverse/lychee-action@v2.4.1
+        uses: lycheeverse/lychee-action@v2.7.0
         with:
           args: --verbose --no-progress --exclude-loopback .
           output: ./lychee/out.md
@@ -36,7 +36,7 @@ jobs:
             automated issue
       - name: Create or update issue for broken links
         id: create_issue
-        uses: peter-evans/create-issue-from-file@v5
+        uses: peter-evans/create-issue-from-file@v6
         if: failure()
         with:
           title: Link Checker Report
