@@ -2,9 +2,7 @@
 
 ## Overview
 
-**SAP Business Technology Platform Solution Diagrams** are used for SAP community [blogs](https://community.sap.com/t5/all-sap-community-blogs/ct-p/all-blogs), [missions](https://discovery-center.cloud.sap/missionCatalog/) and [reference architectures](https://discovery-center.cloud.sap/refArchCatalog/) in [SAP Discovery Center](https://discovery-center.cloud.sap/)
-
-![guideline](/assets/pics/guideline.png)
+**SAP Business Technology Platform Solution Diagrams** are used for SAP community [blogs](https://community.sap.com/t5/all-sap-community-blogs/ct-p/all-blogs), [missions](https://discovery-center.cloud.sap/missionCatalog/) and [SAP Architecture Center](https://architecture.learning.sap.com/)
 
 A BTP solution diagram illustrates the architecture and elements of
 a solution developed using SAP Business Technology Platform.
@@ -15,13 +13,13 @@ total solution configuration and its operational flow.
 
 You will find examples in this repository in:
 
-- [BTP Solution Diagram Examples](/assets/editable-diagram-examples/)
+- [BTP Solution Diagram Examples](https://github.com/SAP/btp-solution-diagrams/tree/main/assetseditable-diagram-examples/)
 
 In addition we will also provide all used BTP service icons and shapes as [draw.io](https://www.drawio.com/) library:
 
-- [BTP Solution Diagram shapes as draw.io XML libraries](/assets/shape-libraries-and-editable-presets/draw.io/)
+- [BTP Solution Diagram shapes as draw.io XML libraries](https://github.com/SAP/btp-solution-diagrams/tree/main/assetsshape-libraries-and-editable-presets/draw.io/)
 
 SVG's of all BTP service icons can be found here:
 
-- [BTP service icons as zip archive (svg's)](/assets/shape-libraries-and-editable-presets/svg/)
+- [BTP service icons as svg)](./shape-libraries-and-editable-presets/svg/)
 
