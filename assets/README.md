@@ -13,11 +13,11 @@ total solution configuration and its operational flow.
 
 You will find examples in this repository in:
 
-- [BTP Solution Diagram Examples](https://github.com/SAP/btp-solution-diagrams/tree/main/assetseditable-diagram-examples/)
+- [BTP Solution Diagram Examples](https://github.com/SAP/btp-solution-diagrams/tree/main/assets/editable-diagram-examples/)
 
 In addition we will also provide all used BTP service icons and shapes as [draw.io](https://www.drawio.com/) library:
 
-- [BTP Solution Diagram shapes as draw.io XML libraries](https://github.com/SAP/btp-solution-diagrams/tree/main/assetsshape-libraries-and-editable-presets/draw.io/)
+- [BTP Solution Diagram shapes as draw.io XML libraries](https://github.com/SAP/btp-solution-diagrams/tree/main/assets/shape-libraries-and-editable-presets/draw.io/)
 
 SVG's of all BTP service icons can be found here:
 
