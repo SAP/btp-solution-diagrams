@@ -1,9 +1,9 @@
-# Custom draw.io shape library for all SAP BTP service icons
+# Custom draw.io shape library for all SAP BAIP service icons
 
 ## Overview 
 These libraies (size S & M) contains all released generic service icons:
 
-![BTP service icons](../../../pics/generic_icons.svg)
+![BAIP service icons](../../../pics/generic_icons.svg)
 
 ## How to use the libraries
 

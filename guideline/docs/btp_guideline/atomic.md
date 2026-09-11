@@ -8,7 +8,7 @@ tags:
 
 # Atomic Design System
 
-The BTP Solution Diagram Design Guideline follows the atomic design system approach.
+The BAIP Solution Diagram Design Guideline follows the atomic design system approach.
 
 <table>
   <tbody>

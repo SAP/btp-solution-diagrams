@@ -10,22 +10,22 @@ tags:
 
 # Getting started 
 
-BTP Solution Diagrams give you a quick and effective understanding of SAP Business Technology Platform end-to-end solution scenarios. To get started using the diagrams, you can use the following resources to familiarize yourself with the diagram guidelines and examples before installing the editor and importing the libraries.
+Business AI Platform (BAIP) Solution Diagrams give you a quick and effective understanding of SAP Business AI Platform end-to-end solution scenarios. To get started using the diagrams, you can use the following resources to familiarize yourself with the diagram guidelines and examples before installing the editor and importing the libraries.
 
-## Before you start using BTP Solution Diagrams
+## Before you start using BAIP Solution Diagrams
 
-- Consult the SAP BTP Solution Diagram guideline. It is based on the new Horizon 2023 design principles and gives you the basic information you need to start using the templates to build your solution diagram.
+- Consult the SAP BAIP Solution Diagram guideline. It is based on the new Horizon 2023 design principles and gives you the basic information you need to start using the templates to build your solution diagram.
 
-## Native integration for the SAP BTP service icons & shapes
+## Native integration for the SAP BAIP service icons & shapes
 
 :::tip Important
 **We're happy to share starting with [draw.io](https://github.com/jgraph/drawio/releases) desktop or the online version of [draw.io](https://www.drawio.com/).
-Good news starting from version 24.7.5 we got now the native integration for the SAP BTP service icons & shapes.
+Good news starting from version 24.7.5 we got now the native integration for the SAP BAIP service icons & shapes.
 
 But please keep in mind some of the new icons not availble in the native integration, to get latest icons in draw.io use the [draw.io custom libraries](https://github.com/SAP/btp-solution-diagrams/tree/main/assets/shape-libraries-and-editable-presets/draw.io)!**
 :::
 
-To add the **SAP BTP service icons & shapes** directly without manual import into **draw.io** you need to follow these simple steps:
+To add the **SAP BAIP service icons & shapes** directly without manual import into **draw.io** you need to follow these simple steps:
 
 1. Open draw.io (web or desktop)
 
@@ -43,19 +43,19 @@ To add the **SAP BTP service icons & shapes** directly without manual import int
 
 -	Download the [draw.io libraries](https://github.com/SAP/btp-solution-diagrams/tree/main/assets/shape-libraries-and-editable-presets/draw.io) which we provide in different sizes (S, M, L). 
 
-We also provide the BTP service icons in different categories:
+We also provide the BAIP service icons in different categories:
   -  [Foundational icons](https://github.com/SAP/btp-solution-diagrams/tree/main/assets/shape-libraries-and-editable-presets/draw.io/20-02-00-sap-btp-service-icons-foundational-set)
   - [Integration suite icons](https://github.com/SAP/btp-solution-diagrams/tree/main/assets/shape-libraries-and-editable-presets/draw.io/20-02-01-sap-btp-service-icons-integration-suite-set)
   - [Application Development & Automation](https://github.com/SAP/btp-solution-diagrams/tree/main/assets/shape-libraries-and-editable-presets/draw.io/20-02-02-sap-btp-service-icons-app-dev-automation-set)
   - [Data & Analytics](https://github.com/SAP/btp-solution-diagrams/tree/main/assets/shape-libraries-and-editable-presets/draw.io/20-02-04-sap-btp-service-icons-data-analytics-set)
   - [AI icons](https://github.com/SAP/btp-solution-diagrams/tree/main/assets/shape-libraries-and-editable-presets/draw.io/20-02-05-sap-btp-service-icons-ai-set)
-  - [BTP SaaS icons](https://github.com/SAP/btp-solution-diagrams/tree/main/assets/shape-libraries-and-editable-presets/draw.io/20-02-06-sap-btp-service-icons-btp-saas-set)
+  - [BAIP SaaS icons](https://github.com/SAP/btp-solution-diagrams/tree/main/assets/shape-libraries-and-editable-presets/draw.io/20-02-06-sap-btp-service-icons-btp-saas-set)
 
-And many more libraries for different usage in ***your*** **BTP Solution Diagram**!
+And many more libraries for different usage in ***your*** **BAIP Solution Diagram**!
 
 ## Lucidchart
 
-- For the [Lucidchart](https://lucid.app/)integration please check the Lucid [Marketplace](https://lucid.app/marketplace#/listing/8e327624-ad9a-4ccf-b74c-325bb907a0ef) listing where you can easily add all availbel **SAP Business Technology Platform Service Icons**
+- For the [Lucidchart](https://lucid.app/)integration please check the Lucid [Marketplace](https://lucid.app/marketplace#/listing/8e327624-ad9a-4ccf-b74c-325bb907a0ef) listing where you can easily add all availbel **SAP Business AI Platform Service Icons**
 
 ![Lucid SAP shapes](../pics/lucid_shapes.png)
 
@@ -83,7 +83,7 @@ And many more libraries for different usage in ***your*** **BTP Solution Diagram
 
 Draw.io supports different options to customize the look & feel, for more details check also the [documentation](https://www.drawio.com/doc/faq/configure-diagram-editor)
 
-To add the SAP colors schema for the SAP BTP Solution Diagrams you can edit the configuration choosing **Extras > Configuration** from the menu.
+To add the SAP colors schema for the SAP BAIP Solution Diagrams you can edit the configuration choosing **Extras > Configuration** from the menu.
 <div className="drawio_color">
 ![draw.io config](../pics/drawio_config.png)
 </div>
@@ -212,9 +212,9 @@ After a restart of draw.io you can now make use of the new fonts:
 ![draw.io custom fonts](../pics/drawio_font_select.png)
 </div>
 
-## Add SAP colors, BTP Icons, Logos etc. to draw.io configuration at once
+## Add SAP colors, BAIP Icons, Logos etc. to draw.io configuration at once
 
-In addition to the single steps to adjust the colors or fonts, you can also add the other assets like BTP Icons & Logos etc.
+In addition to the single steps to adjust the colors or fonts, you can also add the other assets like BAIP Icons & Logos etc.
 
 By using this "all-in-one" json:
 https://github.com/SAP/btp-solution-diagrams/blob/main/guideline/docs/examples/drawio-config-all-in-one.json
@@ -233,7 +233,7 @@ Finally after a restart of draw.io you have all *SAP* libraries preloaded:
 
 ## Reusable diagram examples
 
-You don’t have to start creating each element from scratch. We provide ready to use examples and templates to use or adjust SAP BTP Solution Diagrams easily to your personal needs.
+You don’t have to start creating each element from scratch. We provide ready to use examples and templates to use or adjust SAP BAIP Solution Diagrams easily to your personal needs.
 
 ![Lib Import](../pics/reusable_templates.png)
 

@@ -1,11 +1,11 @@
 [![REUSE status](https://api.reuse.software/badge/github.com/SAP/btp-solution-diagrams)](https://api.reuse.software/info/github.com/SAP/btp-solution-diagrams) [![Deploy static content to Pages](https://github.com/SAP/btp-solution-diagrams/actions/workflows/deploy-to-git-pages.yml/badge.svg)](https://github.com/SAP/btp-solution-diagrams/actions/workflows/deploy-to-git-pages.yml) [![Periodic Link Checker](https://github.com/SAP/btp-solution-diagrams/actions/workflows/periodic-link-watcher.yml/badge.svg)](https://github.com/SAP/btp-solution-diagrams/actions/workflows/periodic-link-watcher.yml) [![CodeQL](https://github.com/SAP/btp-solution-diagrams/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/SAP/btp-solution-diagrams/actions/workflows/github-code-scanning/codeql)
 
-# SAP BTP Solution Diagram Guidelines
+# SAP Business AI Platform Solution Diagram Guidelines
 
 ## About this project
 
-[SAP Business Technology Platform](https://pages.community.sap.com/topics/business-technology-platform) solution diagram repository, based on the official SAP Business Technology Platform Solution diagram guideline. This has been designed in accordance with the SAP Fiori Horizon principles and color palette which provides a holistic and pleasing aesthetic end user experience.
-The solution diagrams are designed to be used in the context of SAP Business Technology Platform. They are intended to provide a visual representation of the architecture and components of a solution built on the SAP Business Technology Platform.
+[SAP Business AI Platform](https://pages.community.sap.com/topics/business-technology-platform) solution diagram repository, based on the official SAP Business AI Platform Solution diagram guideline. This has been designed in accordance with the SAP Fiori Horizon principles and color palette which provides a holistic and pleasing aesthetic end user experience.
+The solution diagrams are designed to be used in the context of SAP Business AI Platform Platform. They are intended to provide a visual representation of the architecture and components of a solution built on the SAP Business AI Platform Platform.
 
 Find a nicely rendered version here: https://sap.github.io/btp-solution-diagrams/
 
@@ -15,7 +15,7 @@ You can find an detailed overview how to get started to make use of the BTP Solu
 
 How to get started with [drawio](https://drawio.com/) is documented in the guideline which you can find in the [Getting started](https://sap.github.io/btp-solution-diagrams/docs/solution_diagr_intro/intro/) section.
 
-For the [Lucidchart](https://lucid.app/marketplace#/listing/8e327624-ad9a-4ccf-b74c-325bb907a0ef) integration please check the offical documentation how to add the **SAP Business Technology Platform Service Icons**
+For the [Lucidchart](https://lucid.app/marketplace#/listing/8e327624-ad9a-4ccf-b74c-325bb907a0ef) integration please check the offical documentation how to add the **SAP Business AI Platform Platform Service Icons**
 
 ## Support, Feedback, Contributing
 

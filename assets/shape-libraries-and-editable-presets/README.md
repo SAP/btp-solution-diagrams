@@ -1,4 +1,4 @@
-# BTP Solution Diagram editable presets
+# BAIP Solution Diagram editable presets
 
 In this folder you'll find the shapes, libraries & svg to use in Draw.io or Microsoft Powerpoint:
 
@@ -13,7 +13,7 @@ For draw.io we clustered the main libraries in **three sizes (S:24px, M:32px, L:
 
 You can find a library which includes all libraries in one single file (including all above):
 
-- [SAP BTP Services all](/assets/shape-libraries-and-editable-presets/draw.io/20-02-99-sap-btp-service-icons-all/)
+- [SAP BAIP Services all](/assets/shape-libraries-and-editable-presets/draw.io/20-02-99-sap-btp-service-icons-all/)
 
 The Generic icons are provided in two sizes (M and S):
 
