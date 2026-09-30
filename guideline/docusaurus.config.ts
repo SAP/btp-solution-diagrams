@@ -21,9 +21,13 @@ const config: Config = {
   deploymentBranch: 'gh-pages',
   trailingSlash: true,
   onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'throw',
   onDuplicateRoutes: 'throw',
   onBrokenAnchors: 'warn',
+  markdown: {
+    hooks: {
+      onBrokenMarkdownLinks: 'throw',
+    },
+  },
 
    plugins: [
     [require.resolve('docusaurus-plugin-image-zoom'), {}],
