@@ -8,15 +8,14 @@ tags:
 
 # Big Picture
 
-## What is a SAP BTP Solution Diagram
+## What is a SAP Business AI Platform Solution Diagram
 
-**SAP Business Technology Platform Solution Diagrams provide high-level, abstract illustrations of technical landscapes.**
+**SAP Business AI Platform (BAIP) Solution Diagrams provide high-level, abstract illustrations of technical landscapes.**
 
-They are instrumental in helping customers understand the range of BTP Services and Solutions that SAP provides, and how these integrate with other SAP products. 
+They are instrumental in helping customers understand the range of SAP BAIP Services and Solutions that SAP provides, and how these integrate with other SAP products. 
 
-These domain-specific diagrams showcase solution scenarios across IT landscapes by depicting **SAP BTP services**, systems, environments and their interdependencies. 
-
-The focus for **BTP Solution Diagrams** is on creating visually compelling and insightful high-level solution architectures based on the **SAP Fiori Horizon** design system.
+These domain-specific diagrams showcase solution scenarios across IT landscapes by depicting **SAP BAIP services**, systems, environments and their interdependencies. 
+The focus for **SAP BAIP Solution Diagrams** is on creating visually compelling and insightful high-level solution architectures based on the **SAP Fiori Horizon** design system.
 
 <div className="whatis">
 <table>
@@ -43,7 +42,7 @@ The focus for **BTP Solution Diagrams** is on creating visually compelling and i
     </tr>
     <tr>
       <td align="center"><b>TAM</b></td>
-      <td align="center"><b>SAP BTP Solution Diagrams & Icons</b></td>
+      <td align="center"><b>SAP BAIP Solution Diagrams & Icons</b></td>
     </tr>
     <tr>
       <td ><div className="tam"> <ul>
@@ -52,8 +51,8 @@ The focus for **BTP Solution Diagrams** is on creating visually compelling and i
           <li>Can be used at any design level</li>
         </ul></div></td>
       <td > <ul>
-          <li>Domain-specific diagram type that describe <br />SAP Business Technology Platform solution scenarios<br /> across IT landscapes.<br /> Show SAP Business Technology Platform <br />services, environments, systems, and their interdependencies.</li>
-          <li>Specific icons for SAP BTP services.</li>
+          <li>Domain-specific diagram type that describe <br />SAP BAIP solution scenarios<br /> across IT landscapes.<br /> Show SAP BAIP <br />services, environments, systems, and their interdependencies.</li>
+          <li>Specific icons for SAP BAIP services.</li>
           <li>Focus on high-level visually pleasing solution architectures</li>
         </ul></td>
     </tr>
@@ -62,9 +61,9 @@ The focus for **BTP Solution Diagrams** is on creating visually compelling and i
 </table>
 
 
-## Target Audience for BTP Solution Diagrams
+## Target Audience for SAP BAIP Solution Diagrams
 
-**BTP solution diagrams can be crafted with varying degrees of detail and tailored to the technical proficiency of the intended audience.** Drawing a parallel to L0 - L2/L3 presentations, these diagrams allow different levels of interpretation by diverse audiences. This has the advantage of being applicable to both internal interested parties and external entities such as customers and business partners.
+**BAIP solution diagrams can be crafted with varying degrees of detail and tailored to the technical proficiency of the intended audience.** Drawing a parallel to L0 - L2/L3 presentations, these diagrams allow different levels of interpretation by diverse audiences. This has the advantage of being applicable to both internal interested parties and external entities such as customers and business partners.
 
 <table>
   <tbody>
@@ -93,7 +92,7 @@ The focus for **BTP Solution Diagrams** is on creating visually compelling and i
 L0 Diagrams
 </div>
 
-A representative example would be a high-level solution diagram featuring BTP Services and simplified flows, without complex technical details. In such diagrams, connectors maintain neutrality and the content is streamlined to essentials, eliminating the necessity for a legend, but a short description is recommended.
+A representative example would be a high-level solution diagram featuring BAIP Services and simplified flows, without complex technical details. In such diagrams, connectors maintain neutrality and the content is streamlined to essentials, eliminating the necessity for a legend, but a short description is recommended.
 
 <div className="diagr_gran">
 ![areas](../pics/diagr_gran.png)
@@ -104,7 +103,7 @@ A representative example would be a high-level solution diagram featuring BTP Se
 
 **Specifications for Diagramming PowerPoint**
 
-For the creation of BTP Solution diagrams using PowerPoint, it is advisable to initially download the PowerPoint starter kit. This kit comes with a PowerPoint template that includes the fundamental atoms and molecules of the design system. It also has a selection of comprehensive and editable example diagrams. 
+For the creation of BAIP Solution diagrams using PowerPoint, it is advisable to initially download the PowerPoint starter kit. This kit comes with a PowerPoint template that includes the fundamental atoms and molecules of the design system. It also has a selection of comprehensive and editable example diagrams. 
 
 The starter kit can be obtained [here](https://github.com/SAP/btp-solution-diagrams/blob/main/assets/all-in-one-starter-kits/README.md).
 
@@ -116,13 +115,13 @@ The starter kit can be obtained [here](https://github.com/SAP/btp-solution-diagr
 
 - Slide dimensions are unalterable, so if you find the available space inadequate for your diagram, avoid downscaling all the elements to accommodate it. The text sizes and line styles in the provided templates have been meticulously designed to complement the tool and target medium. If your diagram is too large for PowerPoint, consider switching to draw.io. This open-source tool provides extensive functionality.
 
-- To use BTP Service icons in PowerPoint, you must download the SVG library separately from the repository.
+- To use BAIP Service icons in PowerPoint, you must download the SVG library separately from the repository.
 
 
 
 **Specifications for Diagramming Draw.io**
 
-To design BTP Solution diagrams in draw.io, we recommend you begin by downloading the draw.io starter kit. This comprehensive kit comes with an abundant library complete with the fundamental atoms and molecules of the system design. Additionally, it includes a variety of detailed, customizable example diagrams.
+To design BAIP Solution diagrams in draw.io, we recommend you begin by downloading the draw.io starter kit. This comprehensive kit comes with an abundant library complete with the fundamental atoms and molecules of the system design. Additionally, it includes a variety of detailed, customizable example diagrams.
 
 You can access the starter kit [here](https://github.com/SAP/btp-solution-diagrams/blob/main/assets/all-in-one-starter-kits/README.md).
 
