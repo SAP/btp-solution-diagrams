@@ -10,7 +10,7 @@ tags:
 
 # Icons
 
-## SAP Business Technology Platform Service Icons
+## SAP Business AI Platform Service Icons
 
 This Icon Set has been recently redesigned and is used for all Services presented in SAP Discovery Center. 
 

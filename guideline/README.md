@@ -1,6 +1,6 @@
-# SAP Business Technology Platform solution diagram documentation
+# SAP Business AI Platform solution diagram documentation
 
-A **SAP Business Technology Platform solution** diagram is a schematic diagram of different complexity for the representation of end-to-end solution scenarios on **SAP Business Technology Platform** to illustrate the work of SAP Business Technology Platform, its services, solutions and SAP products, and the ways of their use.
+A **SAP Business AI Platform solution** diagram is a schematic diagram of different complexity for the representation of end-to-end solution scenarios on **SAP Business AI Platform** to illustrate the work of SAP Business AI Platform, its services, solutions and SAP products, and the ways of their use.
 
 ![intro](./static/img/guideline@2x.png)
 
