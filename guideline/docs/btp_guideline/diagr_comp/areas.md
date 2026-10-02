@@ -16,7 +16,7 @@ tags:
 
 Blue is the standard, grey for non-sap elements and the Accent colors are for highlighting certain areas.
 It is not recommended to use the colors too heavily, they can overpower the diagram.
-The picture shows the recommended rough proportional usage of colors in BAIP Solution diagrams.
+The picture shows the recommended rough proportional usage of colors in SAP Business AI Platform Solution diagrams.
 A fixed corner radius of 16 pixels is recommended.
 For more details please check tool specifications for draw.io and PowerPoint.
 
@@ -26,14 +26,14 @@ For more details please check tool specifications for draw.io and PowerPoint.
 
 | SAP L0 Outline   | SAP L0 Fill   | Non-SAP L0 <br />  Outline | Non-SAP L0 <br /> Fill | Text |  |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|![BAIP Border](../../pics/table_pics/0070F2.png)| ![BAIP Fill](../../pics/table_pics/EBF8FF.png)|![Non-SAP Border](../../pics/table_pics/475E75.png) | ![Non-SAP Border](../../pics/table_pics/F5F6F7.png)|![Non-SAP Border](../../pics/table_pics/1D2D3E.png) | ![Non-SAP Border](../../pics/table_pics/556B82.png)|
+|![SAP Business AI Platform Border](../../pics/table_pics/0070F2.png)| ![SAP Business AI Platform Fill](../../pics/table_pics/EBF8FF.png)|![Non-SAP Border](../../pics/table_pics/475E75.png) | ![Non-SAP Border](../../pics/table_pics/F5F6F7.png)|![Non-SAP Border](../../pics/table_pics/1D2D3E.png) | ![Non-SAP Border](../../pics/table_pics/556B82.png)|
 |``` #0070F2 ```| ``` #EBF8FF ```| ``` #475E75 ```|``` #F5F6F7 ``` | ``` #1D2D3E ```| ``` #556B82 ```|
 
 ## Accent/Emphasized Colors for Areas
 
 | Teal Outline  | Teal Fill   | Indigo Outline | Indigo Fill | Pink Outline  | Pink Fill |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|![BAIP Border](../../pics/table_pics/07838F.png)| ![BAIP Fill](../../pics/table_pics/DAFDF5.png)|![Non-SAP Border](../../pics/table_pics/5D36FF.png) | ![Non-SAP Border](../../pics/table_pics/F1ECFF.png)|![Non-SAP Border](../../pics/table_pics/CC00DC.png) | ![Non-SAP Border](../../pics/table_pics/FFF0FA.png)|
+|![SAP Business AI Platform Border](../../pics/table_pics/07838F.png)| ![SAP Business AI Platform Fill](../../pics/table_pics/DAFDF5.png)|![Non-SAP Border](../../pics/table_pics/5D36FF.png) | ![Non-SAP Border](../../pics/table_pics/F1ECFF.png)|![Non-SAP Border](../../pics/table_pics/CC00DC.png) | ![Non-SAP Border](../../pics/table_pics/FFF0FA.png)|
 |``` #07838F ```| ``` #DAFDF5 ```| ``` #5D36FF ```|``` #F1ECFF ``` | ``` #CC00DC ```| ``` #FFF0FA ```|
 
 
@@ -55,7 +55,7 @@ When nesting different areas inside each other, you should alternate between usi
 
 ## Adding Content to Areas and Creating Hierarchies
 
-When nesting different areas inside each other, you should alternate between using a fill and not using a fill to provide sufficient contrast between the areas. The parent layer is usually the BAIP layer. 
+When nesting different areas inside each other, you should alternate between using a fill and not using a fill to provide sufficient contrast between the areas. The parent layer is usually the SAP Business AI Platform layer. 
 
 ![areas](../../pics/area_nesting_content.png)
 

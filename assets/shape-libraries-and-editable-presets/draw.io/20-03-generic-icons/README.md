@@ -1,9 +1,9 @@
-# Custom draw.io shape library for all SAP BAIP service icons
+# Custom draw.io shape library for all SAP Business AI Platform service icons
 
 ## Overview 
 These libraies (size S & M) contains all released generic service icons:
 
-![BAIP service icons](../../../pics/generic_icons.svg)
+![SAP Business AI Platform service icons](../../../pics/generic_icons.svg)
 
 ## How to use the libraries
 
