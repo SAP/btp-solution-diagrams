@@ -8,7 +8,7 @@ tags:
 
 # Atomic Design System
 
-The BAIP Solution Diagram Design Guideline follows the atomic design system approach.
+The SAP Business AI Platform Solution Diagram Design Guideline follows the atomic design system approach.
 
 <table>
   <tbody>

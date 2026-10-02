@@ -1,11 +1,10 @@
-# BAIP Solution Diagram starter kits
+# SAP Business AI Platform Solution Diagram starter kits
 
-Welcome to the single source of truth for BAIP Architects. The repository includes latest updates and ready-to-use templates. To get started as easy as possible you will find here all necessary files and links to get started to build & create your first BAIP Solution Diagram.
+Welcome to the single source of truth for SAP Business AI Platform Architects. The repository includes latest updates and ready-to-use templates. To get started as easy as possible you will find here all necessary files and links to get started to build & create your first SAP Business AI Platform Solution Diagram.
 In detail you will find here:
 
 - [Draw.io libraries](https://github.com/SAP/btp-solution-diagrams/tree/main/assets/shape-libraries-and-editable-presets/draw.io/README.md)
-- [Draw.io reusable examples](https://github.com/SAP/btp-solution-diagrams/tree/main/assets/editable-diagram-examples/)
-- [BAIP Solution Diagram design guideline](https://sap.github.io/btp-solution-diagrams/docs/solution_diagr_intro/big_picture/)
+- [SAP Business AI Platform Solution Diagram design guideline](https://sap.github.io/btp-solution-diagrams/docs/solution_diagr_intro/big_picture/)
 
 > **Tip:** You can export the diagram as a PNG (or SVG) image, including a copy, to enable continued editing via draw.io. For additional details, check the FAQ section of draw.io: [Export a diagram to a PNG image](https://www.drawio.com/doc/faq/export-to-png).
  
