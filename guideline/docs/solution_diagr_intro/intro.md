@@ -10,9 +10,9 @@ tags:
 
 # Getting started 
 
-Business AI Platform (SAP Business AI Platform) Solution Diagrams give you a quick and effective understanding of SAP Business AI Platform end-to-end solution scenarios. To get started using the diagrams, you can use the following resources to familiarize yourself with the diagram guidelines and examples before installing the editor and importing the libraries.
+Business AI Platform Solution Diagrams give you a quick and effective understanding of SAP Business AI Platform end-to-end solution scenarios. To get started using the diagrams, you can use the following resources to familiarize yourself with the diagram guidelines and examples before installing the editor and importing the libraries.
 
-## Before you start using SAP Business AI Platform Solution Diagrams
+## Before you start using Business AI Platform Solution Diagrams
 
 - Consult the SAP Business AI Platform Solution Diagram guideline. It is based on the new Horizon 2023 design principles and gives you the basic information you need to start using the templates to build your solution diagram.
 
@@ -43,15 +43,15 @@ To add the **SAP Business AI Platform service icons & shapes** directly without 
 
 -	Download the [draw.io libraries](https://github.com/SAP/btp-solution-diagrams/tree/main/assets/shape-libraries-and-editable-presets/draw.io) which we provide in different sizes (S, M, L). 
 
-We also provide the SAP Business AI Platform service icons in different categories:
+We also provide the Business AI Platform service icons in different categories:
   -  [Foundational icons](https://github.com/SAP/btp-solution-diagrams/tree/main/assets/shape-libraries-and-editable-presets/draw.io/20-02-00-sap-btp-service-icons-foundational-set)
   - [Integration suite icons](https://github.com/SAP/btp-solution-diagrams/tree/main/assets/shape-libraries-and-editable-presets/draw.io/20-02-01-sap-btp-service-icons-integration-suite-set)
   - [Application Development & Automation](https://github.com/SAP/btp-solution-diagrams/tree/main/assets/shape-libraries-and-editable-presets/draw.io/20-02-02-sap-btp-service-icons-app-dev-automation-set)
   - [Data & Analytics](https://github.com/SAP/btp-solution-diagrams/tree/main/assets/shape-libraries-and-editable-presets/draw.io/20-02-04-sap-btp-service-icons-data-analytics-set)
   - [AI icons](https://github.com/SAP/btp-solution-diagrams/tree/main/assets/shape-libraries-and-editable-presets/draw.io/20-02-05-sap-btp-service-icons-ai-set)
-  - [SAP Business AI Platform SaaS icons](https://github.com/SAP/btp-solution-diagrams/tree/main/assets/shape-libraries-and-editable-presets/draw.io/20-02-06-sap-btp-service-icons-btp-saas-set)
+  - [Business AI Platform SaaS icons](https://github.com/SAP/btp-solution-diagrams/tree/main/assets/shape-libraries-and-editable-presets/draw.io/20-02-06-sap-btp-service-icons-btp-saas-set)
 
-And many more libraries for different usage in ***your*** **SAP Business AI Platform Solution Diagram**!
+And many more libraries for different usage in ***your*** **Business AI Platform Solution Diagram**!
 
 ## Lucidchart
 
@@ -212,9 +212,9 @@ After a restart of draw.io you can now make use of the new fonts:
 ![draw.io custom fonts](../pics/drawio_font_select.png)
 </div>
 
-## Add SAP colors, SAP Business AI Platform Icons, Logos etc. to draw.io configuration at once
+## Add SAP colors, Business AI Platform Icons, Logos etc. to draw.io configuration at once
 
-In addition to the single steps to adjust the colors or fonts, you can also add the other assets like SAP Business AI Platform Icons & Logos etc.
+In addition to the single steps to adjust the colors or fonts, you can also add the other assets like Business AI Platform Icons & Logos etc.
 
 By using this "all-in-one" json:
 https://github.com/SAP/btp-solution-diagrams/blob/main/guideline/docs/examples/drawio-config-all-in-one.json
@@ -230,6 +230,12 @@ Finally after a restart of draw.io you have all *SAP* libraries preloaded:
 ![draw.io custom fonts](../pics/drawio_config_all_in_one_res.png)
 </div>
 
+
+## Reusable diagram examples
+
+You don’t have to start creating each element from scratch. We provide ready to use examples and templates to use or adjust SAP Business AI Platform Solution Diagrams easily to your personal needs.
+
+![Lib Import](../pics/reusable_templates.png)
 
 ## Contact or help required
 

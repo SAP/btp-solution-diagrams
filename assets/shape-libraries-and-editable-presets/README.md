@@ -1,4 +1,4 @@
-# SAP Business AI Platform Solution Diagram editable presets
+# Business AI Platform Solution Diagram editable presets
 
 In this folder you'll find the shapes, libraries & svg to use in Draw.io or Microsoft Powerpoint:
 

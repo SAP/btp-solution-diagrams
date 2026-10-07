@@ -4,17 +4,22 @@
 
 **SAP Business AI Platform Solution Diagrams** are used for SAP community [blogs](https://community.sap.com/t5/all-sap-community-blogs/ct-p/all-blogs), [missions](https://discovery-center.cloud.sap/missionCatalog/) and [SAP Architecture Center](https://architecture.learning.sap.com/)
 
-A SAP Business AI Platform solution diagram illustrates the architecture and elements of
+A Business AI Platform solution diagram illustrates the architecture and elements of
 a solution developed using SAP Business AI Platform.
 It demonstrates how various services and technologies within the
 platform are employed to meet distinct business needs.
-Each SAP Business AI Platform solution diagram offers a visual outline of the
+Each Business AI Platform solution diagram offers a visual outline of the
 total solution configuration and its operational flow.
 
-In addition we will also provide all used SAP Business AI Platform service icons and shapes as [draw.io](https://www.drawio.com/) library:
+You will find examples in this repository in:
 
-- [SAP Business AI Platform Solution Diagram shapes as draw.io XML libraries](https://github.com/SAP/btp-solution-diagrams/tree/main/assets/shape-libraries-and-editable-presets/draw.io/)
+- [Business AI Platform Solution Diagram Examples](https://github.com/SAP/btp-solution-diagrams/tree/main/assets/editable-diagram-examples/)
 
-SVG's of all SAP Business AI Platform service icons can be found here:
+In addition we will also provide all used Business AI Platform service icons and shapes as [draw.io](https://www.drawio.com/) library:
 
-- [SAP Business AI Platform service icons as svg)](./shape-libraries-and-editable-presets/svg/)
+- [Business AI Platform Solution Diagram shapes as draw.io XML libraries](https://github.com/SAP/btp-solution-diagrams/tree/main/assets/shape-libraries-and-editable-presets/draw.io/)
+
+SVG's of all Business AI Platform service icons can be found here:
+
+- [Business AI Platform service icons as svg)](./shape-libraries-and-editable-presets/svg/)
+

@@ -18,9 +18,9 @@ Horizon is the default visual style for SAP Products. Its color balance helps to
 The primary colors represent the overall look and feel.
 
 
-| SAP/SAP Business AI Platform Area   |    | Non-SAP Areas |  | Text |  |
+| SAP/Business AI Platform Area   |    | Non-SAP Areas |  | Text |  |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|![SAP Business AI Platform Border](../pics/table_pics/0070F2.png)| ![SAP Business AI Platform Fill](../pics/table_pics/EBF8FF.png)|![Non-SAP Border](../pics/table_pics/475E75.png) | ![Non-SAP Border](../pics/table_pics/F5F6F7.png)|![Non-SAP Border](../pics/table_pics/1D2D3E.png) | ![Non-SAP Border](../pics/table_pics/556B82.png)|
+|![Business AI Platform Border](../pics/table_pics/0070F2.png)| ![Business AI Platform Fill](../pics/table_pics/EBF8FF.png)|![Non-SAP Border](../pics/table_pics/475E75.png) | ![Non-SAP Border](../pics/table_pics/F5F6F7.png)|![Non-SAP Border](../pics/table_pics/1D2D3E.png) | ![Non-SAP Border](../pics/table_pics/556B82.png)|
 |**Border**|**Fill**| **Border**|**Fill** | **Title**| **Text**|
 |``` #0070F2 ```| ``` #EBF8FF ```| ``` #475E75 ```|``` #F5F6F7 ``` | ``` #1D2D3E ```| ``` #556B82 ```|
 
@@ -31,7 +31,7 @@ Semantic colors can be used to represent a negative, critical, positive, neutral
 
 |   |    |  |  |  |  |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|![SAP Business AI Platform Border](../pics/table_pics/188918.png)| ![SAP Business AI Platform Fill](../pics/table_pics/F5FAE5.png)|![Non-SAP Border](../pics/table_pics/C35500.png) | ![Non-SAP Border](../pics/table_pics/FFF8D6.png)|![Non-SAP Border](../pics/table_pics/D20A0A.png) | ![Non-SAP Border](../pics/table_pics/FFEAF4.png)|
+|![Business AI Platform Border](../pics/table_pics/188918.png)| ![Business AI Platform Fill](../pics/table_pics/F5FAE5.png)|![Non-SAP Border](../pics/table_pics/C35500.png) | ![Non-SAP Border](../pics/table_pics/FFF8D6.png)|![Non-SAP Border](../pics/table_pics/D20A0A.png) | ![Non-SAP Border](../pics/table_pics/FFEAF4.png)|
 |**Positive**|**Fill**| **Critical**|**Fill** | **Negative**| **Fill**|
 |``` #188918 ```| ``` #F5FAE5 ```| ``` #C35500 ```|``` #FFF8D6 ``` | ``` #D20A0A ```| ``` #FFEAF4 ```|
 
@@ -43,7 +43,7 @@ Secondary colors can be applied to accentuate important elements. They make a vi
 
 |   |    |  |  |  |  |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|![SAP Business AI Platform Border](../pics/table_pics/07838F.png)| ![SAP Business AI Platform Fill](../pics/table_pics/DAFDF5.png)|![Non-SAP Border](../pics/table_pics/5D36FF.png) | ![Non-SAP Border](../pics/table_pics/F1ECFF.png)|![Non-SAP Border](../pics/table_pics/CC00DC.png) | ![Non-SAP Border](../pics/table_pics/FFF0FA.png)|
+|![Business AI Platform Border](../pics/table_pics/07838F.png)| ![Business AI Platform Fill](../pics/table_pics/DAFDF5.png)|![Non-SAP Border](../pics/table_pics/5D36FF.png) | ![Non-SAP Border](../pics/table_pics/F1ECFF.png)|![Non-SAP Border](../pics/table_pics/CC00DC.png) | ![Non-SAP Border](../pics/table_pics/FFF0FA.png)|
 |``` #07838F ```| ``` #DAFDF5 ```| ``` #5D36FF ```|``` #F1ECFF ``` | ``` #CC00DC ```| ``` #FFF0FA ```|
 
 
@@ -54,7 +54,7 @@ Secondary colors can be applied to accentuate important elements. They make a vi
 Arrow types in system architectures often represent various communication forms. Their meaning, which can vary based on the specific notation or individual definitions, isn't universally standardized. Generally, a solid arrow means direct communication, while a dashed arrow implies indirect communication. Including a legend in each diagram is crucial to clarify these meanings.
 
 :::tip
-**Recommended styles for SAP Business AI Platform Solution Diagrams are:**
+**Recommended styles for Business AI Platform Solution Diagrams are:**
 - Solid lines for direct, synchronous request-response data flows
 - Dashed lines for indirect, asynchronous data flows
 - Dotted lines for optional data flows

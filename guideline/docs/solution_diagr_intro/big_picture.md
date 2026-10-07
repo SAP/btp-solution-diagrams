@@ -10,7 +10,7 @@ tags:
 
 ## What is a SAP Business AI Platform Solution Diagram
 
-**SAP Business AI Platform (SAP Business AI Platform) Solution Diagrams provide high-level, abstract illustrations of technical landscapes.**
+**SAP Business AI Platform Solution Diagrams provide high-level, abstract illustrations of technical landscapes.**
 
 They are instrumental in helping customers understand the range of SAP Business AI Platform Services and Solutions that SAP provides, and how these integrate with other SAP products. 
 
@@ -63,7 +63,7 @@ The focus for **SAP Business AI Platform Solution Diagrams** is on creating visu
 
 ## Target Audience for SAP Business AI Platform Solution Diagrams
 
-**SAP Business AI Platform solution diagrams can be crafted with varying degrees of detail and tailored to the technical proficiency of the intended audience.** Drawing a parallel to L0 - L2/L3 presentations, these diagrams allow different levels of interpretation by diverse audiences. This has the advantage of being applicable to both internal interested parties and external entities such as customers and business partners.
+**Business AI Platform solution diagrams can be crafted with varying degrees of detail and tailored to the technical proficiency of the intended audience.** Drawing a parallel to L0 - L2/L3 presentations, these diagrams allow different levels of interpretation by diverse audiences. This has the advantage of being applicable to both internal interested parties and external entities such as customers and business partners.
 
 <table>
   <tbody>
@@ -92,7 +92,7 @@ The focus for **SAP Business AI Platform Solution Diagrams** is on creating visu
 L0 Diagrams
 </div>
 
-A representative example would be a high-level solution diagram featuring SAP Business AI Platform Services and simplified flows, without complex technical details. In such diagrams, connectors maintain neutrality and the content is streamlined to essentials, eliminating the necessity for a legend, but a short description is recommended.
+A representative example would be a high-level solution diagram featuring Business AI Platform Services and simplified flows, without complex technical details. In such diagrams, connectors maintain neutrality and the content is streamlined to essentials, eliminating the necessity for a legend, but a short description is recommended.
 
 <div className="diagr_gran">
 ![areas](../pics/diagr_gran.png)
@@ -103,7 +103,7 @@ A representative example would be a high-level solution diagram featuring SAP Bu
 
 **Specifications for Diagramming PowerPoint**
 
-For the creation of SAP Business AI Platform Solution diagrams using PowerPoint, it is advisable to initially download the PowerPoint starter kit. This kit comes with a PowerPoint template that includes the fundamental atoms and molecules of the design system. It also has a selection of comprehensive and editable example diagrams. 
+For the creation of Business AI Platform Solution diagrams using PowerPoint, it is advisable to initially download the PowerPoint starter kit. This kit comes with a PowerPoint template that includes the fundamental atoms and molecules of the design system. It also has a selection of comprehensive and editable example diagrams. 
 
 The starter kit can be obtained [here](https://github.com/SAP/btp-solution-diagrams/blob/main/assets/all-in-one-starter-kits/README.md).
 
@@ -115,13 +115,13 @@ The starter kit can be obtained [here](https://github.com/SAP/btp-solution-diagr
 
 - Slide dimensions are unalterable, so if you find the available space inadequate for your diagram, avoid downscaling all the elements to accommodate it. The text sizes and line styles in the provided templates have been meticulously designed to complement the tool and target medium. If your diagram is too large for PowerPoint, consider switching to draw.io. This open-source tool provides extensive functionality.
 
-- To use SAP Business AI Platform Service icons in PowerPoint, you must download the SVG library separately from the repository.
+- To use Business AI Platform Service icons in PowerPoint, you must download the SVG library separately from the repository.
 
 
 
 **Specifications for Diagramming Draw.io**
 
-To design SAP Business AI Platform Solution diagrams in draw.io, we recommend you begin by downloading the draw.io starter kit. This comprehensive kit comes with an abundant library complete with the fundamental atoms and molecules of the system design. Additionally, it includes a variety of detailed, customizable example diagrams.
+To design Business AI Platform Solution diagrams in draw.io, we recommend you begin by downloading the draw.io starter kit. This comprehensive kit comes with an abundant library complete with the fundamental atoms and molecules of the system design. Additionally, it includes a variety of detailed, customizable example diagrams.
 
 You can access the starter kit [here](https://github.com/SAP/btp-solution-diagrams/blob/main/assets/all-in-one-starter-kits/README.md).
 

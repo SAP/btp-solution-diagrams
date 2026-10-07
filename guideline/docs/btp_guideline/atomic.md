@@ -8,7 +8,7 @@ tags:
 
 # Atomic Design System
 
-The SAP Business AI Platform Solution Diagram Design Guideline follows the atomic design system approach.
+The Business AI Platform Solution Diagram Design Guideline follows the atomic design system approach.
 
 <table>
   <tbody>

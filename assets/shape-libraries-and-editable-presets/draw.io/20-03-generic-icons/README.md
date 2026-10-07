@@ -3,7 +3,7 @@
 ## Overview 
 These libraies (size S & M) contains all released generic service icons:
 
-![SAP Business AI Platform service icons](../../../pics/generic_icons.svg)
+![Business AI Platform service icons](../../../pics/generic_icons.svg)
 
 ## How to use the libraries
 
