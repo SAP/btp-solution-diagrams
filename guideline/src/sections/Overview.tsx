@@ -28,11 +28,6 @@ export default function OverviewSection(): JSX.Element {
               Each BTP solution diagram offers a visual outline of the <br />
               total solution configuration and its operational flow.
             </p>
-            <Link to="/docs/btp_guideline/examples/">
-              <Button design="Emphasized" style={{ width: 150 }}>
-                Examples
-              </Button>
-            </Link>
 
 
           </div>
