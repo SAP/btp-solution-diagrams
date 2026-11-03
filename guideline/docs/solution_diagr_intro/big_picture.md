@@ -10,7 +10,7 @@ tags:
 
 ## What is a SAP Business AI Platform Solution Diagram
 
-**SAP Business AI Platform (SAP Business AI Platform) Solution Diagrams provide high-level, abstract illustrations of technical landscapes.**
+**SAP Business AI Platform Solution Diagrams provide high-level, abstract illustrations of technical landscapes.**
 
 They are instrumental in helping customers understand the range of SAP Business AI Platform Services and Solutions that SAP provides, and how these integrate with other SAP products. 
 

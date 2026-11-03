@@ -10,7 +10,7 @@ tags:
 
 # Getting started 
 
-Business AI Platform (SAP Business AI Platform) Solution Diagrams give you a quick and effective understanding of SAP Business AI Platform end-to-end solution scenarios. To get started using the diagrams, you can use the following resources to familiarize yourself with the diagram guidelines and examples before installing the editor and importing the libraries.
+SAP Business AI Platform Solution Diagrams give you a quick and effective understanding of SAP Business AI Platform end-to-end solution scenarios. To get started using the diagrams, you can use the following resources to familiarize yourself with the diagram guidelines and examples before installing the editor and importing the libraries.
 
 ## Before you start using SAP Business AI Platform Solution Diagrams
 
@@ -230,6 +230,12 @@ Finally after a restart of draw.io you have all *SAP* libraries preloaded:
 ![draw.io custom fonts](../pics/drawio_config_all_in_one_res.png)
 </div>
 
+
+## Reusable diagram examples
+
+You don’t have to start creating each element from scratch. We provide ready to use examples and templates to use or adjust SAP Business AI Platform Solution Diagrams easily to your personal needs.
+
+![Lib Import](../pics/reusable_templates.png)
 
 ## Contact or help required
 

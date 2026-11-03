@@ -11,6 +11,10 @@ platform are employed to meet distinct business needs.
 Each SAP Business AI Platform solution diagram offers a visual outline of the
 total solution configuration and its operational flow.
 
+You will find examples in this repository in:
+
+- [SAP Business AI Platform Solution Diagram Examples](https://github.com/SAP/btp-solution-diagrams/tree/main/assets/editable-diagram-examples/)
+
 In addition we will also provide all used SAP Business AI Platform service icons and shapes as [draw.io](https://www.drawio.com/) library:
 
 - [SAP Business AI Platform Solution Diagram shapes as draw.io XML libraries](https://github.com/SAP/btp-solution-diagrams/tree/main/assets/shape-libraries-and-editable-presets/draw.io/)
@@ -18,3 +22,4 @@ In addition we will also provide all used SAP Business AI Platform service icons
 SVG's of all SAP Business AI Platform service icons can be found here:
 
 - [SAP Business AI Platform service icons as svg)](./shape-libraries-and-editable-presets/svg/)
+

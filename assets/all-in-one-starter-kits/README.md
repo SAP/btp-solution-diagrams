@@ -4,6 +4,7 @@ Welcome to the single source of truth for SAP Business AI Platform Architects. T
 In detail you will find here:
 
 - [Draw.io libraries](https://github.com/SAP/btp-solution-diagrams/tree/main/assets/shape-libraries-and-editable-presets/draw.io/README.md)
+- [Draw.io reusable examples](https://github.com/SAP/btp-solution-diagrams/tree/main/assets/editable-diagram-examples/)
 - [SAP Business AI Platform Solution Diagram design guideline](https://sap.github.io/btp-solution-diagrams/docs/solution_diagr_intro/big_picture/)
 
 > **Tip:** You can export the diagram as a PNG (or SVG) image, including a copy, to enable continued editing via draw.io. For additional details, check the FAQ section of draw.io: [Export a diagram to a PNG image](https://www.drawio.com/doc/faq/export-to-png).
